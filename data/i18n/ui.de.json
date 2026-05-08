@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "Lerne Deutsch mit deinem Kurs",
+    "subtitle": "Wortschatz, Grammatik und Ubungen aus jedem Unterrichtstag, organisiert nach Lektionen aus dem Buch. Ube wann du willst, in der Sprache deiner Wahl."
+  },
+  "stats": {
+    "lektionen": "Lektionen",
+    "classes": "Unterrichtstage",
+    "languages": "Sprachen",
+    "level": "Niveau"
+  },
+  "lessons": {
+    "title": "Lektionen",
+    "subtitle": "Wahle eine aus, um zu beginnen",
+    "comingSoon": "Bald verfugbar",
+    "available": "Verfugbar",
+    "classesShort": "Tage"
+  },
+  "nav": {
+    "back": "Lektionen"
+  },
+  "tab": {
+    "vocabulary": "Wortschatz",
+    "grammar": "Grammatik",
+    "phrases": "Nutzliche Satze",
+    "exercises": "Ubungen",
+    "classes": "Unterrichtstage"
+  },
+  "lesson": {
+    "flashcards": "Karteikarten",
+    "noContent": "Noch kein Inhalt fur diesen Bereich"
+  },
+  "flash": {
+    "selectLessons": "Wahle Lektionen zum Uben",
+    "all": "Alle",
+    "none": "Keine",
+    "start": "Ubung starten",
+    "exit": "Beenden",
+    "shuffle": "Mischen",
+    "tapToFlip": "Tippe, um die Ubersetzung zu sehen"
+  },
+  "footer": {
+    "disclaimer": "Lernmaterial fur Teilnehmer des IK149. Schritte plus neu 1 © Hueber Verlag."
+  }
+}

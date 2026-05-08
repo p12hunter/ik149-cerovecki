@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Flashcards - IK149</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+</head>
+<body class="bg-gradient-to-br from-amber-50 via-orange-50 to-yellow-50 min-h-screen text-slate-800">
+
+  <header class="border-b border-amber-200/60 bg-white/70 backdrop-blur sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between gap-4">
+      <a href="index.html" class="flex items-center gap-2 text-sm font-medium hover:text-amber-700 transition">
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>
+        <span data-i18n="nav.back">Lecciones</span>
+      </a>
+      <a href="index.html" class="flex items-center gap-2"><span class="text-2xl">🌻</span><span class="font-bold hidden sm:inline">IK149</span></a>
+      <div class="relative">
+        <button id="langBtn" class="flex items-center gap-2 px-3 py-2 rounded-lg bg-white border border-amber-200 hover:border-amber-400 transition text-sm font-medium shadow-sm">
+          <span id="langFlag">🇪🇸</span>
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+        </button>
+        <div id="langMenu" class="hidden absolute right-0 mt-2 w-44 bg-white border border-amber-200 rounded-lg shadow-lg overflow-hidden">
+          <button data-lang="de" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇩🇪</span><span>Deutsch</span></button>
+          <button data-lang="es" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇪🇸</span><span>Espanol</span></button>
+          <button data-lang="en" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇬🇧</span><span>English</span></button>
+          <button data-lang="ar" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇸🇦</span><span>العربية</span></button>
+          <button data-lang="uk" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇺🇦</span><span>Українська</span></button>
+          <button data-lang="tr" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇹🇷</span><span>Turkce</span></button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <section class="max-w-3xl mx-auto px-4 sm:px-6 pt-6 sm:pt-10">
+
+    <!-- Lesson selector -->
+    <div id="selectorView" class="mb-5 bg-white/80 backdrop-blur border border-amber-100 rounded-xl p-4">
+      <div class="flex items-center justify-between mb-3">
+        <h2 class="font-bold text-base sm:text-lg" data-i18n="flash.selectLessons">Selecciona las lecciones a practicar</h2>
+        <div class="flex gap-2 text-xs">
+          <button id="selectAll" class="text-amber-700 hover:underline" data-i18n="flash.all">Todas</button>
+          <span class="text-slate-300">|</span>
+          <button id="selectNone" class="text-amber-700 hover:underline" data-i18n="flash.none">Ninguna</button>
+        </div>
+      </div>
+      <div id="lessonChecks" class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 gap-2 text-sm"></div>
+      <button id="startBtn" class="mt-4 w-full bg-amber-600 hover:bg-amber-700 text-white py-3 rounded-lg font-semibold transition disabled:opacity-50 disabled:cursor-not-allowed" data-i18n="flash.start">
+        Empezar practica
+      </button>
+    </div>
+
+    <!-- Flashcard view -->
+    <div id="flashcardView" class="hidden">
+      <div class="flex items-center justify-between mb-4 text-sm">
+        <span id="progressText" class="text-slate-600">1 / 10</span>
+        <button id="exitFlash" class="text-amber-700 hover:underline" data-i18n="flash.exit">Salir</button>
+      </div>
+
+      <div class="flex justify-center my-6">
+        <div id="flashcard" class="card-flip w-full max-w-md aspect-[4/3] cursor-pointer">
+          <div class="card-flip-inner">
+            <div class="card-face card-front bg-white border border-amber-200 rounded-2xl shadow-xl flex flex-col items-center justify-center p-8 text-center">
+              <div class="text-xs uppercase tracking-wide text-amber-600 font-semibold mb-3">Deutsch</div>
+              <div id="cardFront" class="text-3xl sm:text-4xl font-bold leading-tight"></div>
+              <div class="mt-6 text-xs text-slate-400" data-i18n="flash.tapToFlip">Toca para ver la traduccion</div>
+            </div>
+            <div class="card-face card-back bg-amber-600 text-white rounded-2xl shadow-xl flex flex-col items-center justify-center p-8 text-center">
+              <div class="text-xs uppercase tracking-wide opacity-80 font-semibold mb-3" id="cardLangLabel">Espanol</div>
+              <div id="cardBack" class="text-3xl sm:text-4xl font-bold leading-tight"></div>
+              <div id="cardExample" class="mt-4 text-sm opacity-90 italic"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="flex gap-3 justify-center">
+        <button id="prevCard" class="px-5 py-2.5 bg-white border border-amber-200 rounded-lg font-medium hover:bg-amber-50 transition">←</button>
+        <button id="shuffle" class="px-5 py-2.5 bg-white border border-amber-200 rounded-lg font-medium hover:bg-amber-50 transition" data-i18n="flash.shuffle">Mezclar</button>
+        <button id="nextCard" class="px-5 py-2.5 bg-white border border-amber-200 rounded-lg font-medium hover:bg-amber-50 transition">→</button>
+      </div>
+    </div>
+
+  </section>
+
+  <footer class="border-t border-amber-200/60 bg-white/50 mt-12">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-6 text-center text-xs text-slate-500">
+      🌻 IK149 · Schritte plus neu 1 © Hueber Verlag
+    </div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/flashcards.js"></script>
+</body>
+</html>

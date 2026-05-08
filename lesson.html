@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Leccion - IK149</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link rel="stylesheet" href="css/style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+</head>
+<body class="bg-gradient-to-br from-amber-50 via-orange-50 to-yellow-50 min-h-screen text-slate-800">
+
+  <!-- Header -->
+  <header class="border-b border-amber-200/60 bg-white/70 backdrop-blur sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-4 flex items-center justify-between gap-4">
+      <a href="index.html" class="flex items-center gap-2 text-sm font-medium hover:text-amber-700 transition">
+        <svg class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10 19l-7-7m0 0l7-7m-7 7h18"/></svg>
+        <span data-i18n="nav.back">Lecciones</span>
+      </a>
+
+      <a href="index.html" class="flex items-center gap-2"><span class="text-2xl">🌻</span><span class="font-bold hidden sm:inline">IK149</span></a>
+
+      <div class="relative">
+        <button id="langBtn" class="flex items-center gap-2 px-3 py-2 rounded-lg bg-white border border-amber-200 hover:border-amber-400 transition text-sm font-medium shadow-sm">
+          <span id="langFlag">🇪🇸</span>
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"/></svg>
+        </button>
+        <div id="langMenu" class="hidden absolute right-0 mt-2 w-44 bg-white border border-amber-200 rounded-lg shadow-lg overflow-hidden">
+          <button data-lang="de" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇩🇪</span><span>Deutsch</span></button>
+          <button data-lang="es" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇪🇸</span><span>Espanol</span></button>
+          <button data-lang="en" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇬🇧</span><span>English</span></button>
+          <button data-lang="ar" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇸🇦</span><span>العربية</span></button>
+          <button data-lang="uk" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇺🇦</span><span>Українська</span></button>
+          <button data-lang="tr" class="lang-option w-full text-left px-4 py-2 hover:bg-amber-50 flex items-center gap-3 text-sm"><span>🇹🇷</span><span>Turkce</span></button>
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Lesson header -->
+  <section class="max-w-5xl mx-auto px-4 sm:px-6 pt-8">
+    <div id="lessonHeader" class="bg-white/80 backdrop-blur border border-amber-100 rounded-2xl p-6 sm:p-8 mb-6">
+      <div class="flex items-start justify-between gap-4 flex-wrap">
+        <div>
+          <div class="text-amber-600 text-xs font-semibold uppercase tracking-wide mb-2" id="lessonNumber">Lektion 1</div>
+          <h2 class="text-2xl sm:text-3xl font-extrabold mb-2" id="lessonTitleDe">...</h2>
+          <p class="text-slate-600 text-sm sm:text-base" id="lessonTitleTranslated">...</p>
+        </div>
+        <a href="flashcards.html" id="flashcardsLink" class="inline-flex items-center gap-2 px-4 py-2.5 bg-amber-600 hover:bg-amber-700 text-white rounded-lg font-medium text-sm transition shadow-sm">
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 11H5m14 0a2 2 0 012 2v6a2 2 0 01-2 2H5a2 2 0 01-2-2v-6a2 2 0 012-2m14 0V9a2 2 0 00-2-2M5 11V9a2 2 0 012-2m0 0V5a2 2 0 012-2h6a2 2 0 012 2v2M7 7h10"/></svg>
+          <span data-i18n="lesson.flashcards">Flashcards</span>
+        </a>
+      </div>
+    </div>
+
+    <!-- Tabs -->
+    <div class="flex gap-2 mb-6 overflow-x-auto pb-2">
+      <button class="tab-btn active" data-tab="vocab" data-i18n="tab.vocabulary">Vocabulario</button>
+      <button class="tab-btn" data-tab="grammar" data-i18n="tab.grammar">Gramatica</button>
+      <button class="tab-btn" data-tab="phrases" data-i18n="tab.phrases">Frases utiles</button>
+      <button class="tab-btn" data-tab="exercises" data-i18n="tab.exercises">Ejercicios</button>
+      <button class="tab-btn" data-tab="classes" data-i18n="tab.classes">Clases</button>
+    </div>
+
+    <div id="tabContent" class="pb-12"></div>
+  </section>
+
+  <footer class="border-t border-amber-200/60 bg-white/50 mt-6">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 py-6 text-center text-xs text-slate-500">
+      🌻 IK149 · Schritte plus neu 1 © Hueber Verlag
+    </div>
+  </footer>
+
+  <script src="js/i18n.js"></script>
+  <script src="js/data.js"></script>
+  <script src="js/lesson.js"></script>
+</body>
+</html>

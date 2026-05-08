@@ -1,0 +1,162 @@
+{
+  "course": "IK149 Online-Abend",
+  "teacher": "Jelena Cerovecki",
+  "book": "Schritte plus neu 1 (A1.1)",
+  "publisher": "Hueber Verlag",
+  "lessons": [
+    {
+      "id": "lektion-01",
+      "number": 1,
+      "title": {
+        "de": "Guten Tag. Mein Name ist...",
+        "es": "Hola. Mi nombre es...",
+        "en": "Hello. My name is...",
+        "ar": "مرحبا. اسمي...",
+        "uk": "Доброго дня. Мене звати...",
+        "tr": "Merhaba. Benim adim..."
+      },
+      "description": {
+        "de": "Sich vorstellen, Herkunft, Sprachen, Alphabet, Zahlen 1-20.",
+        "es": "Presentarse, origen, idiomas, alfabeto, numeros 1-20.",
+        "en": "Introducing yourself, origin, languages, alphabet, numbers 1-20.",
+        "ar": "التعريف بالنفس، الأصل، اللغات، الأبجدية، الأرقام 1-20.",
+        "uk": "Знайомство, походження, мови, алфавiт, числа 1-20.",
+        "tr": "Kendini tanitma, kokenin, diller, alfabe, sayilar 1-20."
+      },
+      "classes": 5,
+      "status": "available"
+    },
+    {
+      "id": "lektion-02",
+      "number": 2,
+      "title": {
+        "de": "Meine Familie",
+        "es": "Mi familia",
+        "en": "My family",
+        "ar": "عائلتي",
+        "uk": "Моя сiм'я",
+        "tr": "Ailem"
+      },
+      "description": {
+        "de": "Familie, Befinden, Wohnort, Possessivartikel, Verb haben/sein.",
+        "es": "Familia, como estas, lugar de residencia, posesivos, verbos haben/sein.",
+        "en": "Family, how are you, place of residence, possessives, verbs haben/sein.",
+        "ar": "العائلة، كيف حالك، مكان الإقامة، ضمائر الملكية، الأفعال haben/sein.",
+        "uk": "Сiм'я, як справи, мiсце проживання, присвiйнi займенники, дiєслова haben/sein.",
+        "tr": "Aile, nasilsin, ikamet yeri, iyelik zamirleri, haben/sein fiilleri."
+      },
+      "classes": 0,
+      "status": "available"
+    },
+    {
+      "id": "lektion-03",
+      "number": 3,
+      "title": {
+        "de": "Einkaufen",
+        "es": "De compras",
+        "en": "Shopping",
+        "ar": "التسوق",
+        "uk": "Покупки",
+        "tr": "Alisveris"
+      },
+      "description": {
+        "de": "Lebensmittel, Mengen, Preise, Artikel ein/eine/kein, mochte-Verb.",
+        "es": "Alimentos, cantidades, precios, articulos ein/eine/kein, verbo mochte.",
+        "en": "Food, quantities, prices, articles ein/eine/kein, mochte verb.",
+        "ar": "الأطعمة، الكميات، الأسعار، أدوات التعريف ein/eine/kein، الفعل mochte.",
+        "uk": "Їжа, кiлькостi, цiни, артиклi ein/eine/kein, дiєслово mochte.",
+        "tr": "Gida, miktarlar, fiyatlar, artikeller ein/eine/kein, mochte fiili."
+      },
+      "classes": 0,
+      "status": "available"
+    },
+    {
+      "id": "lektion-04",
+      "number": 4,
+      "title": {
+        "de": "Meine Wohnung",
+        "es": "Mi vivienda",
+        "en": "My home",
+        "ar": "بيتي",
+        "uk": "Моя квартира",
+        "tr": "Evim"
+      },
+      "description": {
+        "de": "Zimmer, Mobel, Farben, definite Artikel der/das/die, Negation nicht.",
+        "es": "Habitaciones, muebles, colores, articulos definidos der/das/die, negacion nicht.",
+        "en": "Rooms, furniture, colours, definite articles der/das/die, negation nicht.",
+        "ar": "الغرف، الأثاث، الألوان، أدوات التعريف der/das/die، النفي nicht.",
+        "uk": "Кiмнати, меблi, кольори, означенi артиклi der/das/die, заперечення nicht.",
+        "tr": "Odalar, mobilya, renkler, belirli artikeller der/das/die, olumsuzluk nicht."
+      },
+      "classes": 0,
+      "status": "available"
+    },
+    {
+      "id": "lektion-05",
+      "number": 5,
+      "title": {
+        "de": "Mein Tag",
+        "es": "Mi dia",
+        "en": "My day",
+        "ar": "يومي",
+        "uk": "Мiй день",
+        "tr": "Gunum"
+      },
+      "description": {
+        "de": "Tageszeiten, Uhrzeit, Wochentage, trennbare Verben.",
+        "es": "Partes del dia, hora, dias de la semana, verbos separables.",
+        "en": "Times of day, clock time, weekdays, separable verbs.",
+        "ar": "أوقات اليوم، الساعة، أيام الأسبوع، الأفعال القابلة للفصل.",
+        "uk": "Часи доби, годинник, днi тижня, вiдокремлюванi дiєслова.",
+        "tr": "Gunun bolumleri, saat, haftanin gunleri, ayrilabilir fiiller."
+      },
+      "classes": 0,
+      "status": "available"
+    },
+    {
+      "id": "lektion-06",
+      "number": 6,
+      "title": {
+        "de": "Freizeit",
+        "es": "Tiempo libre",
+        "en": "Free time",
+        "ar": "وقت الفراغ",
+        "uk": "Вiльний час",
+        "tr": "Bos zaman"
+      },
+      "description": {
+        "de": "Hobbys, Wetter, Akkusativ, ja/nein/doch.",
+        "es": "Hobbies, tiempo (clima), acusativo, ja/nein/doch.",
+        "en": "Hobbies, weather, accusative, ja/nein/doch.",
+        "ar": "الهوايات، الطقس، حالة المفعول به، ja/nein/doch.",
+        "uk": "Хобi, погода, знахiдний вiдмiнок, ja/nein/doch.",
+        "tr": "Hobiler, hava, ismin -i hali, ja/nein/doch."
+      },
+      "classes": 0,
+      "status": "available"
+    },
+    {
+      "id": "lektion-07",
+      "number": 7,
+      "title": {
+        "de": "Kinder und Schule",
+        "es": "Ninos y escuela",
+        "en": "Children and school",
+        "ar": "الأطفال والمدرسة",
+        "uk": "Дiти i школа",
+        "tr": "Cocuklar ve okul"
+      },
+      "description": {
+        "de": "Modalverben konnen/wollen, Satzklammer, Perfekt mit haben/sein.",
+        "es": "Verbos modales konnen/wollen, marco verbal, perfecto con haben/sein.",
+        "en": "Modal verbs konnen/wollen, sentence bracket, perfect with haben/sein.",
+        "ar": "الأفعال المساعدة konnen/wollen، الإطار الجملي، الماضي مع haben/sein.",
+        "uk": "Модальнi дiєслова konnen/wollen, рамкова конструкцiя, перфект з haben/sein.",
+        "tr": "Yardimci fiiller konnen/wollen, cumle cercevesi, haben/sein ile gecmis zaman."
+      },
+      "classes": 0,
+      "status": "available"
+    }
+  ]
+}

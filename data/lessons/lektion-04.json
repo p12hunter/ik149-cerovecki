@@ -1,0 +1,252 @@
+{
+  "id": "lektion-04",
+  "number": 4,
+  "title": {
+    "de": "Meine Wohnung",
+    "es": "Mi vivienda",
+    "en": "My home",
+    "ar": "بيتي",
+    "uk": "Моя квартира",
+    "tr": "Evim"
+  },
+
+  "vocabulary": [
+    {
+      "de": "Wohnung",
+      "article": "die",
+      "translations": { "es": "vivienda, piso", "en": "apartment", "ar": "الشقة", "uk": "квартира", "tr": "daire" }
+    },
+    {
+      "de": "Haus",
+      "article": "das",
+      "translations": { "es": "casa", "en": "house", "ar": "البيت", "uk": "будинок", "tr": "ev" }
+    },
+    {
+      "de": "Zimmer",
+      "article": "das",
+      "translations": { "es": "habitacion", "en": "room", "ar": "الغرفة", "uk": "кiмната", "tr": "oda" }
+    },
+    {
+      "de": "Kuche",
+      "article": "die",
+      "translations": { "es": "cocina", "en": "kitchen", "ar": "المطبخ", "uk": "кухня", "tr": "mutfak" }
+    },
+    {
+      "de": "Bad",
+      "article": "das",
+      "translations": { "es": "bano", "en": "bathroom", "ar": "الحمام", "uk": "ванна", "tr": "banyo" },
+      "example": "Das Bad ist dort."
+    },
+    {
+      "de": "Schlafzimmer",
+      "article": "das",
+      "translations": { "es": "dormitorio", "en": "bedroom", "ar": "غرفة النوم", "uk": "спальня", "tr": "yatak odasi" }
+    },
+    {
+      "de": "Wohnzimmer",
+      "article": "das",
+      "translations": { "es": "salon", "en": "living room", "ar": "غرفة المعيشة", "uk": "вiтальня", "tr": "oturma odasi" }
+    },
+    {
+      "de": "Tisch",
+      "article": "der",
+      "translations": { "es": "mesa", "en": "table", "ar": "الطاولة", "uk": "стiл", "tr": "masa" }
+    },
+    {
+      "de": "Stuhl",
+      "article": "der",
+      "translations": { "es": "silla", "en": "chair", "ar": "الكرسي", "uk": "стiлець", "tr": "sandalye" }
+    },
+    {
+      "de": "Bett",
+      "article": "das",
+      "translations": { "es": "cama", "en": "bed", "ar": "السرير", "uk": "лiжко", "tr": "yatak" }
+    },
+    {
+      "de": "Schrank",
+      "article": "der",
+      "translations": { "es": "armario", "en": "wardrobe", "ar": "الخزانة", "uk": "шафа", "tr": "dolap" }
+    },
+    {
+      "de": "Kuhlschrank",
+      "article": "der",
+      "translations": { "es": "frigorifico", "en": "fridge", "ar": "الثلاجة", "uk": "холодильник", "tr": "buzdolabi" }
+    },
+    {
+      "de": "Sofa",
+      "article": "das",
+      "translations": { "es": "sofa", "en": "sofa", "ar": "الأريكة", "uk": "диван", "tr": "kanepe" }
+    },
+    {
+      "de": "Lampe",
+      "article": "die",
+      "translations": { "es": "lampara", "en": "lamp", "ar": "المصباح", "uk": "лампа", "tr": "lamba" }
+    },
+    {
+      "de": "schon",
+      "translations": { "es": "bonito/a", "en": "beautiful", "ar": "جميل", "uk": "гарний", "tr": "guzel" }
+    },
+    {
+      "de": "hell",
+      "translations": { "es": "luminoso", "en": "bright", "ar": "مضيء", "uk": "свiтлий", "tr": "aydinlik" }
+    },
+    {
+      "de": "dunkel",
+      "translations": { "es": "oscuro", "en": "dark", "ar": "مظلم", "uk": "темний", "tr": "karanlik" }
+    },
+    {
+      "de": "gross",
+      "translations": { "es": "grande", "en": "big", "ar": "كبير", "uk": "великий", "tr": "buyuk" }
+    },
+    {
+      "de": "klein",
+      "translations": { "es": "pequeno", "en": "small", "ar": "صغير", "uk": "малий", "tr": "kucuk" }
+    },
+    {
+      "de": "teuer",
+      "translations": { "es": "caro", "en": "expensive", "ar": "غالي", "uk": "дорогий", "tr": "pahali" }
+    },
+    {
+      "de": "billig",
+      "translations": { "es": "barato", "en": "cheap", "ar": "رخيص", "uk": "дешевий", "tr": "ucuz" }
+    },
+    {
+      "de": "rot",
+      "translations": { "es": "rojo", "en": "red", "ar": "أحمر", "uk": "червоний", "tr": "kirmizi" }
+    },
+    {
+      "de": "blau",
+      "translations": { "es": "azul", "en": "blue", "ar": "أزرق", "uk": "синiй", "tr": "mavi" }
+    },
+    {
+      "de": "grun",
+      "translations": { "es": "verde", "en": "green", "ar": "أخضر", "uk": "зелений", "tr": "yesil" }
+    },
+    {
+      "de": "schwarz",
+      "translations": { "es": "negro", "en": "black", "ar": "أسود", "uk": "чорний", "tr": "siyah" }
+    },
+    {
+      "de": "weiss",
+      "translations": { "es": "blanco", "en": "white", "ar": "أبيض", "uk": "бiлий", "tr": "beyaz" }
+    }
+  ],
+
+  "grammar": [
+    {
+      "title": {
+        "de": "Definiter Artikel: der, das, die",
+        "es": "Articulo definido: der, das, die",
+        "en": "Definite article: der, das, die",
+        "ar": "أداة التعريف: der, das, die",
+        "uk": "Означений артикль: der, das, die",
+        "tr": "Belirli artikel: der, das, die"
+      },
+      "explanation": {
+        "de": "Jedes Nomen hat einen Artikel. Wir mussen ihn immer mitlernen!",
+        "es": "Cada sustantivo tiene un articulo. Tenemos que aprenderlo siempre con la palabra!",
+        "en": "Every noun has an article. We must always learn it together with the word!",
+        "ar": "لكل اسم أداة تعريف. يجب تعلمها مع الكلمة دائما!",
+        "uk": "Кожен iменник має артикль. Завжди вчимо разом зi словом!",
+        "tr": "Her ismin bir artikeli vardir. Her zaman kelimeyle birlikte ogrenmeliyiz!"
+      },
+      "table": {
+        "headers": ["Genus", "definit", "Beispiel"],
+        "rows": [
+          ["maskulin (m)", "der", "der Tisch"],
+          ["neutral (n)", "das", "das Bett"],
+          ["feminin (f)", "die", "die Lampe"],
+          ["Plural (pl)", "die", "die Stuhle"]
+        ]
+      }
+    },
+    {
+      "title": {
+        "de": "Negation: nicht",
+        "es": "Negacion: nicht",
+        "en": "Negation: nicht",
+        "ar": "النفي: nicht",
+        "uk": "Заперечення: nicht",
+        "tr": "Olumsuzluk: nicht"
+      },
+      "explanation": {
+        "de": "nicht negiert das Verb oder das Adjektiv. kein/keine negiert das Nomen.",
+        "es": "nicht niega el verbo o el adjetivo. kein/keine niega el sustantivo.",
+        "en": "nicht negates the verb or adjective. kein/keine negates the noun.",
+        "ar": "nicht ينفي الفعل أو الصفة. kein/keine ينفي الاسم.",
+        "uk": "nicht заперечує дiєслово або прикметник. kein/keine заперечує iменник.",
+        "tr": "nicht fiili veya sifati olumsuz yapar. kein/keine ismi olumsuz yapar."
+      },
+      "examples": [
+        "Das Zimmer ist nicht gross.",
+        "Ich wohne nicht in Berlin.",
+        "Wir haben kein Wohnzimmer."
+      ]
+    },
+    {
+      "title": {
+        "de": "Komposita - zusammengesetzte Nomen",
+        "es": "Palabras compuestas",
+        "en": "Compound nouns",
+        "ar": "الأسماء المركبة",
+        "uk": "Складнi iменники",
+        "tr": "Birlesik isimler"
+      },
+      "explanation": {
+        "de": "Im Deutschen verbinden wir oft zwei Nomen. Der Artikel kommt vom letzten Wort: der Schrank + der Kuhl... -> der Kuhlschrank.",
+        "es": "En aleman a menudo unimos dos sustantivos. El articulo viene de la ULTIMA palabra: der Schrank + Kuhl- -> der Kuhlschrank (frigorifico).",
+        "en": "In German we often combine two nouns. The article comes from the LAST word: der Schrank -> der Kuhlschrank.",
+        "ar": "في الألمانية نجمع كثيرا اسمين معا. أداة التعريف تأتي من الكلمة الأخيرة.",
+        "uk": "У нiмецькiй часто з'єднуємо два iменники. Артикль вiд останнього слова.",
+        "tr": "Almancada genellikle iki ismi birlestiririz. Artikel SON kelimeden gelir."
+      },
+      "examples": [
+        "das Schlaf + das Zimmer = das Schlafzimmer",
+        "die Wasch + die Maschine = die Waschmaschine",
+        "der Kuhl + der Schrank = der Kuhlschrank"
+      ]
+    }
+  ],
+
+  "phrases": [
+    {
+      "de": "Wo ist das Bad?",
+      "translations": { "es": "Donde esta el bano?", "en": "Where is the bathroom?", "ar": "أين الحمام؟", "uk": "Де ванна?", "tr": "Banyo nerede?" }
+    },
+    {
+      "de": "Das Bad ist dort.",
+      "translations": { "es": "El bano esta alli.", "en": "The bathroom is over there.", "ar": "الحمام هناك.", "uk": "Ванна там.", "tr": "Banyo orada." }
+    },
+    {
+      "de": "Wie viele Zimmer hat die Wohnung?",
+      "translations": { "es": "Cuantas habitaciones tiene el piso?", "en": "How many rooms does the flat have?", "ar": "كم غرفة في الشقة؟", "uk": "Скiльки кiмнат у квартирi?", "tr": "Daire kac odali?" }
+    },
+    {
+      "de": "Sie hat drei Zimmer, eine Kuche und ein Bad.",
+      "translations": { "es": "Tiene tres habitaciones, cocina y bano.", "en": "It has three rooms, a kitchen and a bathroom.", "ar": "فيها ثلاث غرف، مطبخ وحمام.", "uk": "Має три кiмнати, кухню i ванну.", "tr": "Uc oda, mutfak ve banyo var." }
+    },
+    {
+      "de": "Das Zimmer ist sehr schon und hell.",
+      "translations": { "es": "La habitacion es muy bonita y luminosa.", "en": "The room is very nice and bright.", "ar": "الغرفة جميلة جدا ومضيئة.", "uk": "Кiмната дуже гарна i свiтла.", "tr": "Oda cok guzel ve aydinlik." }
+    },
+    {
+      "de": "Was kostet die Wohnung?",
+      "translations": { "es": "Cuanto cuesta el piso?", "en": "How much is the flat?", "ar": "كم تكلف الشقة؟", "uk": "Скiльки коштує квартира?", "tr": "Daire ne kadar?" }
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "link",
+      "title": { "de": "Mobel und Zimmer", "es": "Muebles y habitaciones", "en": "Furniture and rooms", "ar": "الأثاث والغرف", "uk": "Меблi i кiмнати", "tr": "Mobilya ve odalar" },
+      "url": "https://wordwall.net/de/resource/4373316/mobel",
+      "source": "wordwall.net"
+    },
+    {
+      "type": "link",
+      "title": { "de": "Farben Quiz", "es": "Quiz de colores", "en": "Colours quiz", "ar": "اختبار الألوان", "uk": "Тест кольорiв", "tr": "Renkler quiz" },
+      "url": "https://wordwall.net/de/resource/2049186/farben",
+      "source": "wordwall.net"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "تعلم الألمانية مع صفك",
+    "subtitle": "المفردات والقواعد والتمارين من كل حصة، مرتبة حسب درس الكتاب. تدرب متى شئت، باللغة التي تفضلها."
+  },
+  "stats": {
+    "lektionen": "الدروس",
+    "classes": "الحصص",
+    "languages": "اللغات",
+    "level": "المستوى"
+  },
+  "lessons": {
+    "title": "الدروس",
+    "subtitle": "اختر واحداً للبدء",
+    "comingSoon": "قريباً",
+    "available": "متاح",
+    "classesShort": "حصص"
+  },
+  "nav": {
+    "back": "الدروس"
+  },
+  "tab": {
+    "vocabulary": "المفردات",
+    "grammar": "القواعد",
+    "phrases": "عبارات مفيدة",
+    "exercises": "التمارين",
+    "classes": "الحصص"
+  },
+  "lesson": {
+    "flashcards": "البطاقات التعليمية",
+    "noContent": "لا يوجد محتوى لهذا القسم بعد"
+  },
+  "flash": {
+    "selectLessons": "اختر الدروس للتدرب عليها",
+    "all": "الكل",
+    "none": "لا شيء",
+    "start": "ابدأ التدريب",
+    "exit": "خروج",
+    "shuffle": "خلط",
+    "tapToFlip": "انقر لرؤية الترجمة"
+  },
+  "footer": {
+    "disclaimer": "مواد دعم لطلاب IK149. Schritte plus neu 1 © Hueber Verlag."
+  }
+}

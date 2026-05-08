@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "Sinifinla birlikte Almanca ogren",
+    "subtitle": "Her dersten kelime, dilbilgisi ve alistirmalar, kitap dersine gore duzenlenmis. Istedigin zaman, tercih ettigin dilde calis."
+  },
+  "stats": {
+    "lektionen": "Dersler",
+    "classes": "Sinif gunleri",
+    "languages": "Diller",
+    "level": "Seviye"
+  },
+  "lessons": {
+    "title": "Dersler",
+    "subtitle": "Baslamak icin birini sec",
+    "comingSoon": "Yakinda",
+    "available": "Mevcut",
+    "classesShort": "ders"
+  },
+  "nav": {
+    "back": "Dersler"
+  },
+  "tab": {
+    "vocabulary": "Kelimeler",
+    "grammar": "Dilbilgisi",
+    "phrases": "Faydali ifadeler",
+    "exercises": "Alistirmalar",
+    "classes": "Sinif gunleri"
+  },
+  "lesson": {
+    "flashcards": "Kartlar",
+    "noContent": "Bu bolum icin henuz icerik yok"
+  },
+  "flash": {
+    "selectLessons": "Calisilacak dersleri sec",
+    "all": "Tumu",
+    "none": "Hicbiri",
+    "start": "Calismaya basla",
+    "exit": "Cikis",
+    "shuffle": "Karistir",
+    "tapToFlip": "Cevirisi gormek icin dokun"
+  },
+  "footer": {
+    "disclaimer": "IK149 ogrencileri icin destek materyali. Schritte plus neu 1 © Hueber Verlag."
+  }
+}

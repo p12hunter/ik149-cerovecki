@@ -1,0 +1,614 @@
+{
+  "id": "lektion-01",
+  "number": 1,
+  "title": {
+    "de": "Guten Tag. Mein Name ist...",
+    "es": "Hola. Mi nombre es...",
+    "en": "Hello. My name is...",
+    "ar": "مرحبا. اسمي...",
+    "uk": "Доброго дня. Мене звати...",
+    "tr": "Merhaba. Benim adim..."
+  },
+
+  "vocabulary": [
+    {
+      "de": "Vorname",
+      "article": "der",
+      "translations": {
+        "es": "nombre",
+        "en": "first name",
+        "ar": "الاسم الأول",
+        "uk": "iм'я",
+        "tr": "ad"
+      },
+      "example": "Mein Vorname ist Lara."
+    },
+    {
+      "de": "Nachname",
+      "article": "der",
+      "translations": {
+        "es": "apellido",
+        "en": "surname",
+        "ar": "اسم العائلة",
+        "uk": "прiзвище",
+        "tr": "soyad"
+      },
+      "example": "Mein Nachname ist Nowak."
+    },
+    {
+      "de": "Name",
+      "article": "der",
+      "translations": {
+        "es": "nombre completo",
+        "en": "name",
+        "ar": "الاسم",
+        "uk": "iм'я",
+        "tr": "isim"
+      },
+      "example": "Was ist dein Name?"
+    },
+    {
+      "de": "Herkunft",
+      "article": "die",
+      "translations": {
+        "es": "origen, procedencia",
+        "en": "origin",
+        "ar": "الأصل",
+        "uk": "походження",
+        "tr": "koken"
+      }
+    },
+    {
+      "de": "Heimatland",
+      "article": "das",
+      "translations": {
+        "es": "pais natal",
+        "en": "home country",
+        "ar": "الوطن",
+        "uk": "рiдна країна",
+        "tr": "ana vatan"
+      },
+      "example": "Kroatien ist mein Heimatland."
+    },
+    {
+      "de": "Sprache",
+      "article": "die",
+      "translations": {
+        "es": "idioma",
+        "en": "language",
+        "ar": "اللغة",
+        "uk": "мова",
+        "tr": "dil"
+      },
+      "example": "Deutsch ist eine Sprache."
+    },
+    {
+      "de": "Muttersprache",
+      "article": "die",
+      "translations": {
+        "es": "lengua materna",
+        "en": "mother tongue",
+        "ar": "اللغة الأم",
+        "uk": "рiдна мова",
+        "tr": "ana dil"
+      },
+      "example": "Meine Muttersprache ist Spanisch."
+    },
+    {
+      "de": "Beruf",
+      "article": "der",
+      "translations": {
+        "es": "profesion",
+        "en": "profession",
+        "ar": "المهنة",
+        "uk": "професiя",
+        "tr": "meslek"
+      },
+      "example": "Was bist du von Beruf?"
+    },
+    {
+      "de": "Lehrerin",
+      "article": "die",
+      "translations": {
+        "es": "profesora",
+        "en": "teacher (female)",
+        "ar": "معلمة",
+        "uk": "вчителька",
+        "tr": "ogretmen (kadin)"
+      },
+      "example": "Sie ist Deutschlehrerin."
+    },
+    {
+      "de": "Programmierer",
+      "article": "der",
+      "translations": {
+        "es": "programador",
+        "en": "programmer",
+        "ar": "مبرمج",
+        "uk": "програмiст",
+        "tr": "programci"
+      }
+    },
+    {
+      "de": "verheiratet",
+      "translations": {
+        "es": "casado/a",
+        "en": "married",
+        "ar": "متزوج",
+        "uk": "одружений / замiжня",
+        "tr": "evli"
+      },
+      "example": "Ich bin verheiratet."
+    },
+    {
+      "de": "ledig",
+      "translations": {
+        "es": "soltero/a",
+        "en": "single",
+        "ar": "أعزب",
+        "uk": "неодружений",
+        "tr": "bekar"
+      },
+      "example": "Nein, ich bin ledig."
+    },
+    {
+      "de": "ein bisschen",
+      "translations": {
+        "es": "un poco",
+        "en": "a little",
+        "ar": "قليلا",
+        "uk": "трохи",
+        "tr": "biraz"
+      },
+      "example": "Ich spreche ein bisschen Deutsch."
+    },
+    {
+      "de": "Pronomen",
+      "article": "das",
+      "translations": {
+        "es": "pronombre",
+        "en": "pronoun",
+        "ar": "الضمير",
+        "uk": "займенник",
+        "tr": "zamir"
+      }
+    },
+    {
+      "de": "Nomen",
+      "article": "das",
+      "translations": {
+        "es": "sustantivo",
+        "en": "noun",
+        "ar": "الاسم",
+        "uk": "iменник",
+        "tr": "isim"
+      },
+      "example": "Jedes Nomen hat einen Artikel."
+    },
+    {
+      "de": "Artikel",
+      "article": "der",
+      "translations": {
+        "es": "articulo (gramatical)",
+        "en": "article (grammatical)",
+        "ar": "أداة التعريف",
+        "uk": "артикль",
+        "tr": "tanimlik"
+      },
+      "example": "der, die, das sind Artikel."
+    },
+    {
+      "de": "Verb",
+      "article": "das",
+      "translations": {
+        "es": "verbo",
+        "en": "verb",
+        "ar": "الفعل",
+        "uk": "дiєслово",
+        "tr": "fiil"
+      },
+      "example": "Verb steht auf Position 2."
+    },
+    {
+      "de": "Zahl",
+      "article": "die",
+      "translations": {
+        "es": "numero",
+        "en": "number",
+        "ar": "العدد",
+        "uk": "число",
+        "tr": "sayi"
+      }
+    },
+    {
+      "de": "Adjektiv",
+      "article": "das",
+      "translations": {
+        "es": "adjetivo",
+        "en": "adjective",
+        "ar": "الصفة",
+        "uk": "прикметник",
+        "tr": "sifat"
+      }
+    }
+  ],
+
+  "grammar": [
+    {
+      "title": {
+        "de": "Personalpronomen",
+        "es": "Pronombres personales",
+        "en": "Personal pronouns",
+        "ar": "الضمائر الشخصية",
+        "uk": "Особовi займенники",
+        "tr": "Sahis zamirleri"
+      },
+      "explanation": {
+        "de": "Die Personalpronomen im Singular sind: ich, du, er/sie/es. Im Plural: wir, ihr, sie. Sie (mit grossem S) ist die formelle Anrede.",
+        "es": "Los pronombres personales en singular son: ich (yo), du (tu), er/sie/es (el/ella/ello). En plural: wir (nosotros), ihr (vosotros), sie (ellos). Sie (con S mayuscula) es la forma formal de tratamiento.",
+        "en": "Singular personal pronouns: ich (I), du (you informal), er/sie/es (he/she/it). Plural: wir (we), ihr (you all), sie (they). Sie (capital S) is the formal address.",
+        "ar": "ضمائر المفرد: ich (أنا)، du (أنت)، er/sie/es (هو/هي/هو محايد). الجمع: wir (نحن)، ihr (أنتم)، sie (هم). Sie بحرف كبير صيغة احترام.",
+        "uk": "Займенники однини: ich (я), du (ти), er/sie/es (вiн/вона/воно). Множина: wir (ми), ihr (ви), sie (вони). Sie з великої - ввiчлива форма.",
+        "tr": "Tekil sahis zamirleri: ich (ben), du (sen), er/sie/es (o erkek/kadin/notr). Cogul: wir (biz), ihr (siz), sie (onlar). Sie (buyuk S) resmi hitap."
+      },
+      "table": {
+        "headers": ["Pronomen", "Person"],
+        "rows": [
+          ["ich", "1. Person Singular"],
+          ["du", "2. Person Singular (informal)"],
+          ["er / sie / es", "3. Person Singular"],
+          ["wir", "1. Person Plural"],
+          ["ihr", "2. Person Plural (informal)"],
+          ["sie / Sie", "3. Person Plural / formal"]
+        ]
+      }
+    },
+    {
+      "title": {
+        "de": "Verbkonjugation - regelmassige Verben",
+        "es": "Conjugacion verbal - verbos regulares",
+        "en": "Verb conjugation - regular verbs",
+        "ar": "تصريف الأفعال - الأفعال المنتظمة",
+        "uk": "Дiєвiдмiна - правильнi дiєслова",
+        "tr": "Fiil cekimi - duzenli fiiller"
+      },
+      "explanation": {
+        "de": "Der Infinitiv endet immer auf -en (kommen, lernen, horen). Zum Konjugieren entfernt man -en und fugt die passende Endung hinzu.",
+        "es": "El infinitivo siempre termina en -en (kommen, lernen, horen). Para conjugar, quitas -en y anades la terminacion correspondiente.",
+        "en": "The infinitive always ends in -en (kommen, lernen, horen). To conjugate, remove -en and add the matching ending.",
+        "ar": "المصدر ينتهي دائما بـ -en. للتصريف، نحذف -en ونضيف النهاية المناسبة.",
+        "uk": "Iнфiнiтив завжди закiнчується на -en. Для дiєвiдмiнювання прибираємо -en i додаємо вiдповiдне закiнчення.",
+        "tr": "Mastar her zaman -en ile biter. Cekmek icin -en'i cikarip uygun eki ekleriz."
+      },
+      "table": {
+        "headers": ["Pronomen", "lernen", "kommen", "horen"],
+        "rows": [
+          ["ich (-e)", "lerne", "komme", "hore"],
+          ["du (-st)", "lernst", "kommst", "horst"],
+          ["er/sie/es (-t)", "lernt", "kommt", "hort"],
+          ["wir (-en)", "lernen", "kommen", "horen"],
+          ["ihr (-t)", "lernt", "kommt", "hort"],
+          ["sie/Sie (-en)", "lernen", "kommen", "horen"]
+        ]
+      },
+      "examples": [
+        "Ich lerne Deutsch.",
+        "Du kommst aus Spanien.",
+        "Wir horen Musik."
+      ]
+    },
+    {
+      "title": {
+        "de": "Verb sein - unregelmassig",
+        "es": "Verbo sein (ser/estar) - irregular",
+        "en": "Verb sein (to be) - irregular",
+        "ar": "الفعل sein (يكون) - شاذ",
+        "uk": "Дiєслово sein (бути) - неправильне",
+        "tr": "sein fiili (olmak) - duzensiz"
+      },
+      "explanation": {
+        "de": "Das Verb sein ist unregelmassig. Es ist sehr wichtig - bitte auswendig lernen!",
+        "es": "El verbo sein es irregular. Es muy importante - aprenderlo de memoria!",
+        "en": "The verb sein is irregular. Very important - memorise it!",
+        "ar": "الفعل sein شاذ. مهم جدا - يجب حفظه!",
+        "uk": "Дiєслово sein - неправильне. Дуже важливе - вивчити напам'ять!",
+        "tr": "sein fiili duzensizdir. Cok onemli - ezberle!"
+      },
+      "table": {
+        "headers": ["Pronomen", "sein"],
+        "rows": [
+          ["ich", "bin"],
+          ["du", "bist"],
+          ["er/sie/es", "ist"],
+          ["wir", "sind"],
+          ["ihr", "seid"],
+          ["sie/Sie", "sind"]
+        ]
+      },
+      "examples": [
+        "Ich bin Lara.",
+        "Du bist 27 Jahre alt.",
+        "Wir sind aus Deutschland."
+      ]
+    },
+    {
+      "title": {
+        "de": "Satzstruktur - Verb auf Position 2",
+        "es": "Estructura de la oracion - el verbo en posicion 2",
+        "en": "Sentence structure - verb in position 2",
+        "ar": "بنية الجملة - الفعل في الموضع الثاني",
+        "uk": "Структура речення - дiєслово на 2 мiсцi",
+        "tr": "Cumle yapisi - fiil 2. konumda"
+      },
+      "explanation": {
+        "de": "In Aussagesatzen steht das konjugierte Verb immer auf Position 2. Vor dem Verb kann das Subjekt oder ein anderes Element stehen.",
+        "es": "En las oraciones afirmativas, el verbo conjugado siempre va en posicion 2. Antes del verbo puede ir el sujeto u otro elemento.",
+        "en": "In statements, the conjugated verb always goes in position 2. Before the verb you can place the subject or another element.",
+        "ar": "في الجمل الخبرية، الفعل المصرف دائما في الموضع الثاني. قبل الفعل يمكن وضع الفاعل أو عنصر آخر.",
+        "uk": "У розповiдних реченнях вiдмiнюване дiєслово завжди на 2 мiсцi. Перед ним - пiдмет або iнший елемент.",
+        "tr": "Bildirim cumlelerinde cekimli fiil her zaman 2. konumdadir. Fiilden once ozne veya baska bir oge gelebilir."
+      },
+      "examples": [
+        "Ich (1) bin (2) 27 Jahre alt.",
+        "Heute (1) lerne (2) ich Deutsch.",
+        "Mein Name (1) ist (2) Jelena."
+      ]
+    },
+    {
+      "title": {
+        "de": "Praposition aus + Land",
+        "es": "Preposicion aus + pais",
+        "en": "Preposition aus + country",
+        "ar": "حرف الجر aus + البلد",
+        "uk": "Прийменник aus + країна",
+        "tr": "Edat aus + ulke"
+      },
+      "explanation": {
+        "de": "Mit aus sagen wir, woher wir kommen. Die meisten Lander haben keinen Artikel: aus Deutschland, aus Spanien. Aber: aus der Turkei, aus den USA.",
+        "es": "Con aus decimos de donde venimos. La mayoria de paises no llevan articulo: aus Deutschland, aus Spanien. Pero: aus der Turkei (Turquia), aus den USA.",
+        "en": "With aus we say where we come from. Most countries take no article: aus Deutschland, aus Spanien. But: aus der Turkei, aus den USA.",
+        "ar": "مع aus نقول من أين نأتي. معظم البلدان بدون أداة تعريف: aus Deutschland. لكن: aus der Turkei، aus den USA.",
+        "uk": "З aus говоримо звiдки ми. Бiльшiсть країн без артикля: aus Deutschland. Але: aus der Turkei, aus den USA.",
+        "tr": "aus ile nereden geldigimizi soyleriz. Cogu ulke artikelsiz: aus Deutschland. Ama: aus der Turkei, aus den USA."
+      },
+      "examples": [
+        "Ich komme aus Spanien.",
+        "Sie kommt aus der Turkei.",
+        "Wir kommen aus den USA."
+      ]
+    }
+  ],
+
+  "phrases": [
+    {
+      "de": "Wie heisst du?",
+      "translations": {
+        "es": "Como te llamas?",
+        "en": "What's your name?",
+        "ar": "ما اسمك؟",
+        "uk": "Як тебе звати?",
+        "tr": "Adin ne?"
+      }
+    },
+    {
+      "de": "Ich heisse Lara Nowak.",
+      "translations": {
+        "es": "Me llamo Lara Nowak.",
+        "en": "My name is Lara Nowak.",
+        "ar": "اسمي لارا نواك.",
+        "uk": "Мене звати Лара Новак.",
+        "tr": "Adim Lara Nowak."
+      }
+    },
+    {
+      "de": "Was ist dein Name?",
+      "translations": {
+        "es": "Cual es tu nombre?",
+        "en": "What is your name?",
+        "ar": "ما هو اسمك؟",
+        "uk": "Як твоє iм'я?",
+        "tr": "Ismin nedir?"
+      }
+    },
+    {
+      "de": "Wie alt bist du?",
+      "translations": {
+        "es": "Cuantos anos tienes?",
+        "en": "How old are you?",
+        "ar": "كم عمرك؟",
+        "uk": "Скiльки тобi рокiв?",
+        "tr": "Kac yasindasin?"
+      }
+    },
+    {
+      "de": "Ich bin 27 Jahre alt.",
+      "translations": {
+        "es": "Tengo 27 anos.",
+        "en": "I am 27 years old.",
+        "ar": "عمري 27 سنة.",
+        "uk": "Менi 27 рокiв.",
+        "tr": "27 yasindayim."
+      }
+    },
+    {
+      "de": "Woher kommst du?",
+      "translations": {
+        "es": "De donde eres?",
+        "en": "Where are you from?",
+        "ar": "من أين أنت؟",
+        "uk": "Звiдки ти?",
+        "tr": "Nerelisin?"
+      }
+    },
+    {
+      "de": "Ich komme aus Spanien.",
+      "translations": {
+        "es": "Vengo de Espana.",
+        "en": "I'm from Spain.",
+        "ar": "أنا من إسبانيا.",
+        "uk": "Я з Iспанiї.",
+        "tr": "Ispanya'danim."
+      }
+    },
+    {
+      "de": "Wo wohnst du?",
+      "translations": {
+        "es": "Donde vives?",
+        "en": "Where do you live?",
+        "ar": "أين تسكن؟",
+        "uk": "Де ти живеш?",
+        "tr": "Nerede yasiyorsun?"
+      }
+    },
+    {
+      "de": "Ich wohne in Wuppertal.",
+      "translations": {
+        "es": "Vivo en Wuppertal.",
+        "en": "I live in Wuppertal.",
+        "ar": "أسكن في فوبرتال.",
+        "uk": "Я живу у Вуппертальi.",
+        "tr": "Wuppertal'de yasiyorum."
+      }
+    },
+    {
+      "de": "Bist du verheiratet?",
+      "translations": {
+        "es": "Estas casado/a?",
+        "en": "Are you married?",
+        "ar": "هل أنت متزوج؟",
+        "uk": "Ти одружений?",
+        "tr": "Evli misin?"
+      }
+    },
+    {
+      "de": "Ja, ich bin verheiratet.",
+      "translations": {
+        "es": "Si, estoy casado/a.",
+        "en": "Yes, I am married.",
+        "ar": "نعم، أنا متزوج.",
+        "uk": "Так, я одружений.",
+        "tr": "Evet, evliyim."
+      }
+    },
+    {
+      "de": "Nein, ich bin ledig.",
+      "translations": {
+        "es": "No, soy soltero/a.",
+        "en": "No, I am single.",
+        "ar": "لا، أنا أعزب.",
+        "uk": "Нi, я неодружений.",
+        "tr": "Hayir, bekarim."
+      }
+    },
+    {
+      "de": "Welche Sprachen sprichst du?",
+      "translations": {
+        "es": "Que idiomas hablas?",
+        "en": "Which languages do you speak?",
+        "ar": "ما اللغات التي تتحدثها؟",
+        "uk": "Якими мовами ти говориш?",
+        "tr": "Hangi dilleri konusursun?"
+      }
+    },
+    {
+      "de": "Ich spreche Spanisch und ein bisschen Deutsch.",
+      "translations": {
+        "es": "Hablo espanol y un poco de aleman.",
+        "en": "I speak Spanish and a little German.",
+        "ar": "أتحدث الإسبانية وقليلا من الألمانية.",
+        "uk": "Я говорю iспанською i трохи нiмецькою.",
+        "tr": "Ispanyolca ve biraz Almanca konusuyorum."
+      }
+    },
+    {
+      "de": "Was bist du von Beruf?",
+      "translations": {
+        "es": "A que te dedicas?",
+        "en": "What do you do for a living?",
+        "ar": "ما مهنتك؟",
+        "uk": "Ким ти працюєш?",
+        "tr": "Meslegin nedir?"
+      }
+    },
+    {
+      "de": "Ich arbeite als Programmierer.",
+      "translations": {
+        "es": "Trabajo como programador.",
+        "en": "I work as a programmer.",
+        "ar": "أعمل كمبرمج.",
+        "uk": "Я працюю програмiстом.",
+        "tr": "Programci olarak calisiyorum."
+      },
+      "note": {
+        "de": "als + Beruf | bei + Firma",
+        "es": "als + profesion | bei + empresa",
+        "en": "als + profession | bei + company",
+        "ar": "als + المهنة | bei + الشركة",
+        "uk": "als + професiя | bei + компанiя",
+        "tr": "als + meslek | bei + sirket"
+      }
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "link",
+      "title": {
+        "de": "W-Fragen Ubung 1",
+        "es": "Ejercicio de preguntas con W",
+        "en": "W-Questions exercise 1",
+        "ar": "تمرين أسئلة W",
+        "uk": "Вправа W-питання 1",
+        "tr": "W sorulari alistirmasi 1"
+      },
+      "url": "https://wordwall.net/de/resource/12773774/w-fragen",
+      "source": "wordwall.net"
+    },
+    {
+      "type": "link",
+      "title": {
+        "de": "A1 W-Fragen",
+        "es": "A1 Preguntas con W",
+        "en": "A1 W-Questions",
+        "ar": "A1 أسئلة W",
+        "uk": "A1 W-питання",
+        "tr": "A1 W sorulari"
+      },
+      "url": "https://wordwall.net/de/resource/79723981/a1-w-fragen",
+      "source": "wordwall.net"
+    },
+    {
+      "type": "link",
+      "title": {
+        "de": "Verbkonjugation A1 ubung",
+        "es": "Conjugacion de verbos A1",
+        "en": "A1 verb conjugation",
+        "ar": "تصريف الأفعال A1",
+        "uk": "Дiєвiдмiна A1",
+        "tr": "A1 fiil cekimi"
+      },
+      "url": "https://mein-deutschbuch.de/grammatikuebungen-konjugation.html",
+      "source": "mein-deutschbuch.de"
+    }
+  ],
+
+  "classes": [
+    {
+      "tag": 1,
+      "date": "2026-04-16",
+      "summary": {
+        "de": "Erste Stunde: Vorstellung der Lehrerin und der Kursregeln. Erste Satze: Wie heisst du? Wie alt bist du? Woher kommst du? Wo wohnst du? Bist du verheiratet? Welche Sprachen sprichst du? Was bist du von Beruf?",
+        "es": "Primera clase: presentacion de la profesora y de las reglas del curso. Primeras frases: como te llamas, cuantos anos tienes, de donde vienes, donde vives, estado civil, idiomas, profesion.",
+        "en": "First class: introduction of the teacher and course rules. First sentences: what's your name, how old are you, where are you from, where do you live, marital status, languages, profession.",
+        "ar": "الحصة الأولى: تقديم المعلمة وقواعد الدورة. الجمل الأولى: ما اسمك، كم عمرك، من أين أنت، أين تسكن، الحالة الاجتماعية، اللغات، المهنة.",
+        "uk": "Перше заняття: знайомство з викладачем i правилами курсу. Першi фрази: як тебе звати, скiльки рокiв, звiдки ти, де живеш, сiмейний стан, мови, професiя.",
+        "tr": "Ilk ders: ogretmenin ve kurs kurallarinin tanitimi. Ilk cumleler: adin ne, kac yasindasin, nerelisin, nerede yasiyorsun, medeni durum, diller, meslek."
+      },
+      "topics": [
+        { "de": "Sich vorstellen", "es": "Presentarse", "en": "Introducing oneself", "ar": "التعريف بالنفس", "uk": "Знайомство", "tr": "Kendini tanitma" },
+        { "de": "Personalpronomen ich/du", "es": "Pronombres ich/du", "en": "Pronouns ich/du", "ar": "الضمائر ich/du", "uk": "Займенники ich/du", "tr": "ich/du zamirleri" },
+        { "de": "Verb sein - bin/bist/ist", "es": "Verbo sein - bin/bist/ist", "en": "Verb sein - bin/bist/ist", "ar": "الفعل sein - bin/bist/ist", "uk": "Дiєслово sein - bin/bist/ist", "tr": "sein fiili - bin/bist/ist" }
+      ]
+    }
+  ]
+}

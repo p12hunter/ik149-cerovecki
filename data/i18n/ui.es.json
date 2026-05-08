@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "Aprende aleman con tu clase",
+    "subtitle": "Vocabulario, gramatica y ejercicios de cada clase, organizados por leccion del libro. Practica cuando quieras, en el idioma que prefieras."
+  },
+  "stats": {
+    "lektionen": "Lecciones",
+    "classes": "Clases",
+    "languages": "Idiomas",
+    "level": "Nivel"
+  },
+  "lessons": {
+    "title": "Lecciones",
+    "subtitle": "Selecciona una para empezar",
+    "comingSoon": "Proximamente",
+    "available": "Disponible",
+    "classesShort": "clases"
+  },
+  "nav": {
+    "back": "Lecciones"
+  },
+  "tab": {
+    "vocabulary": "Vocabulario",
+    "grammar": "Gramatica",
+    "phrases": "Frases utiles",
+    "exercises": "Ejercicios",
+    "classes": "Clases"
+  },
+  "lesson": {
+    "flashcards": "Flashcards",
+    "noContent": "Aun no hay contenido para esta seccion"
+  },
+  "flash": {
+    "selectLessons": "Selecciona las lecciones a practicar",
+    "all": "Todas",
+    "none": "Ninguna",
+    "start": "Empezar practica",
+    "exit": "Salir",
+    "shuffle": "Mezclar",
+    "tapToFlip": "Toca para ver la traduccion"
+  },
+  "footer": {
+    "disclaimer": "Material de apoyo para alumnos del IK149. Schritte plus neu 1 © Hueber Verlag."
+  }
+}

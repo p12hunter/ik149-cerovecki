@@ -1,0 +1,254 @@
+{
+  "id": "lektion-03",
+  "number": 3,
+  "title": {
+    "de": "Einkaufen",
+    "es": "De compras",
+    "en": "Shopping",
+    "ar": "التسوق",
+    "uk": "Покупки",
+    "tr": "Alisveris"
+  },
+
+  "vocabulary": [
+    {
+      "de": "Brot",
+      "article": "das",
+      "translations": { "es": "pan", "en": "bread", "ar": "الخبز", "uk": "хлiб", "tr": "ekmek" }
+    },
+    {
+      "de": "Milch",
+      "article": "die",
+      "translations": { "es": "leche", "en": "milk", "ar": "الحليب", "uk": "молоко", "tr": "sut" }
+    },
+    {
+      "de": "Ei",
+      "article": "das",
+      "translations": { "es": "huevo", "en": "egg", "ar": "البيض", "uk": "яйце", "tr": "yumurta" },
+      "example": "Wir brauchen zehn Eier."
+    },
+    {
+      "de": "Zucker",
+      "article": "der",
+      "translations": { "es": "azucar", "en": "sugar", "ar": "السكر", "uk": "цукор", "tr": "seker" }
+    },
+    {
+      "de": "Salz",
+      "article": "das",
+      "translations": { "es": "sal", "en": "salt", "ar": "الملح", "uk": "сiль", "tr": "tuz" }
+    },
+    {
+      "de": "Apfel",
+      "article": "der",
+      "translations": { "es": "manzana", "en": "apple", "ar": "التفاحة", "uk": "яблуко", "tr": "elma" }
+    },
+    {
+      "de": "Banane",
+      "article": "die",
+      "translations": { "es": "platano", "en": "banana", "ar": "الموز", "uk": "банан", "tr": "muz" }
+    },
+    {
+      "de": "Tomate",
+      "article": "die",
+      "translations": { "es": "tomate", "en": "tomato", "ar": "الطماطم", "uk": "помiдор", "tr": "domates" }
+    },
+    {
+      "de": "Kase",
+      "article": "der",
+      "translations": { "es": "queso", "en": "cheese", "ar": "الجبن", "uk": "сир", "tr": "peynir" }
+    },
+    {
+      "de": "Wasser",
+      "article": "das",
+      "translations": { "es": "agua", "en": "water", "ar": "الماء", "uk": "вода", "tr": "su" }
+    },
+    {
+      "de": "Kilo",
+      "article": "das",
+      "translations": { "es": "kilo", "en": "kilo", "ar": "كيلو", "uk": "кiлограм", "tr": "kilo" },
+      "example": "Ein Kilo Tomaten, bitte."
+    },
+    {
+      "de": "Gramm",
+      "article": "das",
+      "translations": { "es": "gramo", "en": "gram", "ar": "غرام", "uk": "грам", "tr": "gram" }
+    },
+    {
+      "de": "Liter",
+      "article": "der",
+      "translations": { "es": "litro", "en": "litre", "ar": "لتر", "uk": "лiтр", "tr": "litre" }
+    },
+    {
+      "de": "Flasche",
+      "article": "die",
+      "translations": { "es": "botella", "en": "bottle", "ar": "زجاجة", "uk": "пляшка", "tr": "sise" }
+    },
+    {
+      "de": "Stuck",
+      "article": "das",
+      "translations": { "es": "pieza, unidad", "en": "piece", "ar": "قطعة", "uk": "штука", "tr": "adet" }
+    },
+    {
+      "de": "Euro",
+      "article": "der",
+      "translations": { "es": "euro", "en": "euro", "ar": "اليورو", "uk": "євро", "tr": "avro" },
+      "example": "Das kostet drei Euro."
+    },
+    {
+      "de": "kosten",
+      "translations": { "es": "costar", "en": "to cost", "ar": "يكلف", "uk": "коштувати", "tr": "maliyet olmak" },
+      "example": "Was kostet das?"
+    },
+    {
+      "de": "kaufen",
+      "translations": { "es": "comprar", "en": "to buy", "ar": "يشتري", "uk": "купувати", "tr": "satin almak" }
+    },
+    {
+      "de": "mochten",
+      "translations": { "es": "querer / quisiera", "en": "would like", "ar": "يود", "uk": "хотiти би", "tr": "istemek" },
+      "example": "Ich mochte ein Brot."
+    }
+  ],
+
+  "grammar": [
+    {
+      "title": {
+        "de": "Indefiniter Artikel: ein / eine",
+        "es": "Articulo indefinido: ein / eine",
+        "en": "Indefinite article: ein / eine",
+        "ar": "أداة التنكير: ein / eine",
+        "uk": "Неозначений артикль: ein / eine",
+        "tr": "Belirsiz artikel: ein / eine"
+      },
+      "explanation": {
+        "de": "Der unbestimmte Artikel: ein fur maskulin und neutral, eine fur feminin. Im Plural gibt es keinen Artikel.",
+        "es": "Articulo indefinido (un/una): ein para masculino y neutro, eine para femenino. En plural NO hay articulo.",
+        "en": "Indefinite article (a/an): ein for masculine and neuter, eine for feminine. No article in plural.",
+        "ar": "أداة التنكير: ein للمذكر والمحايد، eine للمؤنث. لا توجد أداة في الجمع.",
+        "uk": "Неозначений артикль: ein - чоловiчий i середнiй рiд, eine - жiночий. У множинi артикля немає.",
+        "tr": "Belirsiz artikel: ein eril ve cinssiz icin, eine disil icin. Cogulda artikel yok."
+      },
+      "table": {
+        "headers": ["Genus", "indefinit", "negativ"],
+        "rows": [
+          ["der (m)", "ein Apfel", "kein Apfel"],
+          ["das (n)", "ein Brot", "kein Brot"],
+          ["die (f)", "eine Tomate", "keine Tomate"],
+          ["Plural", "- Tomaten", "keine Tomaten"]
+        ]
+      },
+      "examples": [
+        "Ich mochte einen Apfel.",
+        "Das ist ein Ei.",
+        "Wir haben keine Milch."
+      ]
+    },
+    {
+      "title": {
+        "de": "Plural - der Plural ist wichtig!",
+        "es": "Plural - el plural es importante!",
+        "en": "Plural - the plural is important!",
+        "ar": "الجمع - الجمع مهم!",
+        "uk": "Множина - множина важлива!",
+        "tr": "Cogul - cogul onemlidir!"
+      },
+      "explanation": {
+        "de": "Im Deutschen gibt es verschiedene Pluralformen. Bitte den Plural immer mit dem Wort lernen!",
+        "es": "En aleman hay varias formas de plural. Aprende SIEMPRE el plural junto a la palabra!",
+        "en": "German has several plural forms. Always learn the plural together with the word!",
+        "ar": "في الألمانية أشكال جمع مختلفة. تعلم الجمع دائما مع الكلمة!",
+        "uk": "У нiмецькiй кiлька форм множини. Завжди вчи множину разом зi словом!",
+        "tr": "Almancada farkli cogul ekleri vardir. Cogulu her zaman kelimeyle birlikte ogrenin!"
+      },
+      "table": {
+        "headers": ["Singular", "Plural", "Endung"],
+        "rows": [
+          ["das Ei", "die Eier", "-er"],
+          ["die Tomate", "die Tomaten", "-n"],
+          ["der Apfel", "die Apfel", "Umlaut"],
+          ["das Auto", "die Autos", "-s"]
+        ]
+      }
+    },
+    {
+      "title": {
+        "de": "Verb mochte- (Hoflichkeit)",
+        "es": "Verbo mochte- (cortesia)",
+        "en": "Verb mochte- (politeness)",
+        "ar": "الفعل mochte- (المجاملة)",
+        "uk": "Дiєслово mochte- (ввiчливiсть)",
+        "tr": "Mochte- fiili (kibarlik)"
+      },
+      "explanation": {
+        "de": "mochte- ist die hofliche Form von wollen. Wir benutzen es im Geschaft und Restaurant.",
+        "es": "mochte- es la forma cortes de wollen (querer). Se usa en tiendas y restaurantes.",
+        "en": "mochte- is the polite form of wollen (to want). We use it in shops and restaurants.",
+        "ar": "mochte- هي الصيغة المهذبة من wollen. نستخدمها في المتاجر والمطاعم.",
+        "uk": "mochte- - ввiчлива форма wollen. Вживаємо в магазинах i ресторанах.",
+        "tr": "mochte-, wollen'in kibar halidir. Magaza ve restoranda kullaniriz."
+      },
+      "table": {
+        "headers": ["Pronomen", "mochte-"],
+        "rows": [
+          ["ich", "mochte"],
+          ["du", "mochtest"],
+          ["er/sie/es", "mochte"],
+          ["wir", "mochten"],
+          ["ihr", "mochtet"],
+          ["sie/Sie", "mochten"]
+        ]
+      },
+      "examples": [
+        "Ich mochte ein Brot, bitte.",
+        "Was mochten Sie?",
+        "Mochtest du einen Kaffee?"
+      ]
+    }
+  ],
+
+  "phrases": [
+    {
+      "de": "Was kostet das?",
+      "translations": { "es": "Cuanto cuesta?", "en": "How much does it cost?", "ar": "كم يكلف؟", "uk": "Скiльки це коштує?", "tr": "Bu ne kadar?" }
+    },
+    {
+      "de": "Das macht zusammen 5 Euro 40.",
+      "translations": { "es": "Son 5 con 40 en total.", "en": "That's 5 euros 40 in total.", "ar": "المجموع 5 يورو و40.", "uk": "Разом 5 євро 40.", "tr": "Toplam 5 avro 40." }
+    },
+    {
+      "de": "Ich mochte ein Kilo Tomaten, bitte.",
+      "translations": { "es": "Quiero un kilo de tomates, por favor.", "en": "I'd like a kilo of tomatoes, please.", "ar": "أريد كيلو من الطماطم، من فضلك.", "uk": "Будь ласка, кiлограм помiдорiв.", "tr": "Bir kilo domates istiyorum, lutfen." }
+    },
+    {
+      "de": "Haben wir Zucker?",
+      "translations": { "es": "Tenemos azucar?", "en": "Do we have sugar?", "ar": "هل لدينا سكر؟", "uk": "У нас є цукор?", "tr": "Sekerimiz var mi?" }
+    },
+    {
+      "de": "Nein, wir haben keinen Zucker.",
+      "translations": { "es": "No, no tenemos azucar.", "en": "No, we don't have sugar.", "ar": "لا، ليس لدينا سكر.", "uk": "Нi, цукру немає.", "tr": "Hayir, sekerimiz yok." }
+    },
+    {
+      "de": "Sonst noch etwas?",
+      "translations": { "es": "Algo mas?", "en": "Anything else?", "ar": "أي شيء آخر؟", "uk": "Ще щось?", "tr": "Baska bir sey?" }
+    },
+    {
+      "de": "Nein, danke. Das ist alles.",
+      "translations": { "es": "No, gracias. Eso es todo.", "en": "No, thanks. That's all.", "ar": "لا، شكرا. هذا كل شيء.", "uk": "Нi, дякую. Це все.", "tr": "Hayir, tesekkurler. Hepsi bu." }
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "link",
+      "title": { "de": "Lebensmittel A1", "es": "Alimentos A1", "en": "Food A1", "ar": "الأطعمة A1", "uk": "Їжа A1", "tr": "Gida A1" },
+      "url": "https://wordwall.net/de/resource/22113891/lebensmittel-a1",
+      "source": "wordwall.net"
+    },
+    {
+      "type": "link",
+      "title": { "de": "ein/eine/kein/keine", "es": "ein/eine/kein/keine", "en": "ein/eine/kein/keine", "ar": "ein/eine/kein/keine", "uk": "ein/eine/kein/keine", "tr": "ein/eine/kein/keine" },
+      "url": "https://wordwall.net/de/resource/4378935/ein-eine-kein-keine",
+      "source": "wordwall.net"
+    }
+  ]
+}

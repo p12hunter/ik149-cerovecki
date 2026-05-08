@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "Вивчай нiмецьку зi своїм класом",
+    "subtitle": "Лексика, граматика i вправи з кожного заняття, упорядкованi за уроками пiдручника. Практикуй коли захочеш, мовою яку обереш."
+  },
+  "stats": {
+    "lektionen": "Уроки",
+    "classes": "Заняття",
+    "languages": "Мови",
+    "level": "Рiвень"
+  },
+  "lessons": {
+    "title": "Уроки",
+    "subtitle": "Обери один, щоб почати",
+    "comingSoon": "Незабаром",
+    "available": "Доступно",
+    "classesShort": "занять"
+  },
+  "nav": {
+    "back": "Уроки"
+  },
+  "tab": {
+    "vocabulary": "Лексика",
+    "grammar": "Граматика",
+    "phrases": "Кориснi фрази",
+    "exercises": "Вправи",
+    "classes": "Заняття"
+  },
+  "lesson": {
+    "flashcards": "Картки",
+    "noContent": "Поки немає вмiсту в цьому роздiлi"
+  },
+  "flash": {
+    "selectLessons": "Обери уроки для практики",
+    "all": "Всi",
+    "none": "Жоден",
+    "start": "Почати практику",
+    "exit": "Вийти",
+    "shuffle": "Перемiшати",
+    "tapToFlip": "Натисни щоб побачити переклад"
+  },
+  "footer": {
+    "disclaimer": "Допомiжнi матерiали для студентiв IK149. Schritte plus neu 1 © Hueber Verlag."
+  }
+}

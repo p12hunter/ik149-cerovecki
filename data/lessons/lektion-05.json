@@ -1,0 +1,254 @@
+{
+  "id": "lektion-05",
+  "number": 5,
+  "title": {
+    "de": "Mein Tag",
+    "es": "Mi dia",
+    "en": "My day",
+    "ar": "يومي",
+    "uk": "Мiй день",
+    "tr": "Gunum"
+  },
+
+  "vocabulary": [
+    {
+      "de": "Morgen",
+      "article": "der",
+      "translations": { "es": "manana", "en": "morning", "ar": "الصباح", "uk": "ранок", "tr": "sabah" },
+      "example": "Am Morgen fruhstucke ich."
+    },
+    {
+      "de": "Vormittag",
+      "article": "der",
+      "translations": { "es": "manana (antes del mediodia)", "en": "late morning", "ar": "قبل الظهر", "uk": "до полудня", "tr": "ogleden once" }
+    },
+    {
+      "de": "Mittag",
+      "article": "der",
+      "translations": { "es": "mediodia", "en": "noon", "ar": "الظهر", "uk": "полудень", "tr": "ogle" }
+    },
+    {
+      "de": "Nachmittag",
+      "article": "der",
+      "translations": { "es": "tarde", "en": "afternoon", "ar": "بعد الظهر", "uk": "пiсля обiду", "tr": "ogleden sonra" }
+    },
+    {
+      "de": "Abend",
+      "article": "der",
+      "translations": { "es": "noche (temprano)", "en": "evening", "ar": "المساء", "uk": "вечiр", "tr": "aksam" }
+    },
+    {
+      "de": "Nacht",
+      "article": "die",
+      "translations": { "es": "noche (tarde)", "en": "night", "ar": "الليل", "uk": "нiч", "tr": "gece" }
+    },
+    {
+      "de": "Uhr",
+      "article": "die",
+      "translations": { "es": "hora / reloj", "en": "clock / o'clock", "ar": "الساعة", "uk": "година", "tr": "saat" },
+      "example": "Es ist drei Uhr."
+    },
+    {
+      "de": "Montag",
+      "article": "der",
+      "translations": { "es": "lunes", "en": "Monday", "ar": "الإثنين", "uk": "понедiлок", "tr": "Pazartesi" }
+    },
+    {
+      "de": "Dienstag",
+      "article": "der",
+      "translations": { "es": "martes", "en": "Tuesday", "ar": "الثلاثاء", "uk": "вiвторок", "tr": "Sali" }
+    },
+    {
+      "de": "Mittwoch",
+      "article": "der",
+      "translations": { "es": "miercoles", "en": "Wednesday", "ar": "الأربعاء", "uk": "середа", "tr": "Carsamba" }
+    },
+    {
+      "de": "Donnerstag",
+      "article": "der",
+      "translations": { "es": "jueves", "en": "Thursday", "ar": "الخميس", "uk": "четвер", "tr": "Persembe" }
+    },
+    {
+      "de": "Freitag",
+      "article": "der",
+      "translations": { "es": "viernes", "en": "Friday", "ar": "الجمعة", "uk": "п'ятниця", "tr": "Cuma" }
+    },
+    {
+      "de": "Samstag",
+      "article": "der",
+      "translations": { "es": "sabado", "en": "Saturday", "ar": "السبت", "uk": "субота", "tr": "Cumartesi" }
+    },
+    {
+      "de": "Sonntag",
+      "article": "der",
+      "translations": { "es": "domingo", "en": "Sunday", "ar": "الأحد", "uk": "недiля", "tr": "Pazar" }
+    },
+    {
+      "de": "Wochenende",
+      "article": "das",
+      "translations": { "es": "fin de semana", "en": "weekend", "ar": "نهاية الأسبوع", "uk": "вихiднi", "tr": "hafta sonu" }
+    },
+    {
+      "de": "aufstehen",
+      "translations": { "es": "levantarse", "en": "to get up", "ar": "ينهض", "uk": "вставати", "tr": "kalkmak" },
+      "example": "Ich stehe um 7 Uhr auf."
+    },
+    {
+      "de": "fruhstucken",
+      "translations": { "es": "desayunar", "en": "to have breakfast", "ar": "يفطر", "uk": "снiдати", "tr": "kahvalti yapmak" }
+    },
+    {
+      "de": "anfangen",
+      "translations": { "es": "empezar, comenzar", "en": "to start", "ar": "يبدأ", "uk": "починати", "tr": "baslamak" },
+      "example": "Der Kurs fangt um 18 Uhr an."
+    },
+    {
+      "de": "einkaufen",
+      "translations": { "es": "ir de compras", "en": "to shop", "ar": "يتسوق", "uk": "робити покупки", "tr": "alisveris yapmak" },
+      "example": "Ich kaufe im Supermarkt ein."
+    },
+    {
+      "de": "fernsehen",
+      "translations": { "es": "ver la tele", "en": "to watch TV", "ar": "يشاهد التلفاز", "uk": "дивитися ТВ", "tr": "televizyon izlemek" }
+    },
+    {
+      "de": "aufraumen",
+      "translations": { "es": "ordenar, recoger", "en": "to tidy up", "ar": "يرتب", "uk": "прибирати", "tr": "toplamak" }
+    },
+    {
+      "de": "anrufen",
+      "translations": { "es": "llamar por telefono", "en": "to call", "ar": "يتصل", "uk": "телефонувати", "tr": "aramak" }
+    },
+    {
+      "de": "schlafen",
+      "translations": { "es": "dormir", "en": "to sleep", "ar": "ينام", "uk": "спати", "tr": "uyumak" }
+    }
+  ],
+
+  "grammar": [
+    {
+      "title": {
+        "de": "Trennbare Verben",
+        "es": "Verbos separables",
+        "en": "Separable verbs",
+        "ar": "الأفعال القابلة للفصل",
+        "uk": "Вiдокремлюванi дiєслова",
+        "tr": "Ayrilabilir fiiller"
+      },
+      "explanation": {
+        "de": "Trennbare Verben haben ein Prafix (auf-, an-, ein-, fern-, mit-). Das Prafix steht im Satz am Ende! aufstehen -> Ich stehe um 7 Uhr auf.",
+        "es": "Los verbos separables tienen un prefijo (auf-, an-, ein-, fern-, mit-). En la oracion el prefijo va al FINAL! aufstehen -> Ich stehe um 7 Uhr auf.",
+        "en": "Separable verbs have a prefix (auf-, an-, ein-, fern-, mit-). The prefix goes at the END of the sentence! aufstehen -> Ich stehe um 7 Uhr auf.",
+        "ar": "الأفعال القابلة للفصل لها سابقة. السابقة تذهب لآخر الجملة!",
+        "uk": "Вiдокремлюванi дiєслова мають префiкс. Префiкс йде в кiнець речення!",
+        "tr": "Ayrilabilir fiillerin oneki vardir. Onek cumlenin SONUNA gider!"
+      },
+      "table": {
+        "headers": ["Infinitiv", "ich-Form", "Beispielsatz"],
+        "rows": [
+          ["aufstehen", "stehe...auf", "Ich stehe um 7 auf."],
+          ["anfangen", "fange...an", "Der Kurs fangt um 9 an."],
+          ["einkaufen", "kaufe...ein", "Sie kauft im Markt ein."],
+          ["fernsehen", "sehe...fern", "Wir sehen am Abend fern."],
+          ["anrufen", "rufe...an", "Ich rufe meine Mutter an."]
+        ]
+      }
+    },
+    {
+      "title": {
+        "de": "Prapositionen am, um, von... bis",
+        "es": "Preposiciones am, um, von... bis",
+        "en": "Prepositions am, um, von... bis",
+        "ar": "حروف الجر am, um, von... bis",
+        "uk": "Прийменники am, um, von... bis",
+        "tr": "am, um, von... bis edatlari"
+      },
+      "explanation": {
+        "de": "am + Tageszeit/Wochentag: am Morgen, am Montag. um + Uhrzeit: um 8 Uhr. von... bis...: zeitlicher Bereich. Ausnahme: in der Nacht.",
+        "es": "am + parte del dia / dia de la semana: am Morgen, am Montag. um + hora: um 8 Uhr. von...bis...: rango temporal. Excepcion: in der Nacht.",
+        "en": "am + time of day / weekday: am Morgen, am Montag. um + clock time: um 8 Uhr. von...bis...: time range. Exception: in der Nacht.",
+        "ar": "am + وقت/يوم. um + ساعة. von...bis...: نطاق زمني. استثناء: in der Nacht.",
+        "uk": "am + час доби / день. um + година. von...bis...: часовий дiапазон. Виняток: in der Nacht.",
+        "tr": "am + gunun bolumu / gun. um + saat. von...bis...: zaman araligi. Istisna: in der Nacht."
+      },
+      "examples": [
+        "Am Montag arbeite ich.",
+        "Der Kurs fangt um 18 Uhr an.",
+        "Ich arbeite von 9 bis 17 Uhr.",
+        "In der Nacht schlafe ich."
+      ]
+    },
+    {
+      "title": {
+        "de": "Uhrzeit",
+        "es": "La hora",
+        "en": "Telling time",
+        "ar": "الوقت",
+        "uk": "Час",
+        "tr": "Saat"
+      },
+      "explanation": {
+        "de": "Im informellen Deutsch sagen wir: Viertel nach (15 Min danach), halb (30 vor der naechsten Stunde!), Viertel vor (15 Min davor).",
+        "es": "En aleman informal: Viertel nach (y cuarto), halb (y media - cuidado: indica la mitad de la PROXIMA hora!), Viertel vor (menos cuarto).",
+        "en": "In informal German: Viertel nach (quarter past), halb (half - careful: refers to half of the NEXT hour!), Viertel vor (quarter to).",
+        "ar": "في الألمانية: Viertel nach (وربع)، halb (ونصف - يشير إلى نصف الساعة التالية!)، Viertel vor (إلا ربع).",
+        "uk": "Неформально: Viertel nach (чверть пiсля), halb (пiв - увага: до НАСТУПНОЇ години!), Viertel vor (за чверть).",
+        "tr": "Resmi olmayan Almanca: Viertel nach (ceyrek gece), halb (yarim - dikkat: SONRAKI saatin yarimi!), Viertel vor (ceyrek var)."
+      },
+      "examples": [
+        "Es ist 7:15 -> Es ist Viertel nach sieben.",
+        "Es ist 7:30 -> Es ist halb acht (achtung: halb 8!)",
+        "Es ist 7:45 -> Es ist Viertel vor acht.",
+        "Es ist 8:00 -> Es ist acht Uhr."
+      ]
+    }
+  ],
+
+  "phrases": [
+    {
+      "de": "Wie spat ist es?",
+      "translations": { "es": "Que hora es?", "en": "What time is it?", "ar": "كم الساعة؟", "uk": "Котра година?", "tr": "Saat kac?" }
+    },
+    {
+      "de": "Es ist halb acht.",
+      "translations": { "es": "Son las siete y media.", "en": "It's half past seven.", "ar": "الساعة السابعة والنصف.", "uk": "Пiв на восьму.", "tr": "Saat yedi bucuk." }
+    },
+    {
+      "de": "Wann fangt der Deutschkurs an?",
+      "translations": { "es": "Cuando empieza el curso?", "en": "When does the German course start?", "ar": "متى يبدأ الدرس؟", "uk": "Коли починається курс?", "tr": "Almanca kursu ne zaman basliyor?" }
+    },
+    {
+      "de": "Um 18 Uhr.",
+      "translations": { "es": "A las 18.", "en": "At 6 pm.", "ar": "الساعة السادسة مساء.", "uk": "О 18.", "tr": "Saat 18'de." }
+    },
+    {
+      "de": "Ich stehe um 7 Uhr auf.",
+      "translations": { "es": "Me levanto a las 7.", "en": "I get up at 7.", "ar": "أستيقظ الساعة 7.", "uk": "Я встаю о 7.", "tr": "Saat 7'de kalkiyorum." }
+    },
+    {
+      "de": "Was machst du am Wochenende?",
+      "translations": { "es": "Que haces el fin de semana?", "en": "What do you do on the weekend?", "ar": "ماذا تفعل في عطلة الأسبوع؟", "uk": "Що ти робиш на вихiдних?", "tr": "Hafta sonu ne yapiyorsun?" }
+    }
+  ],
+
+  "exercises": [
+    {
+      "type": "link",
+      "title": { "de": "Trennbare Verben A1", "es": "Verbos separables A1", "en": "Separable verbs A1", "ar": "الأفعال القابلة للفصل A1", "uk": "Вiдокремлюванi A1", "tr": "Ayrilabilir fiiller A1" },
+      "url": "https://wordwall.net/resource/58779058/deutsch/trennbare-verben",
+      "source": "wordwall.net"
+    },
+    {
+      "type": "link",
+      "title": { "de": "Wann stehst du auf?", "es": "Cuando te levantas?", "en": "When do you get up?", "ar": "متى تستيقظ؟", "uk": "Коли ти встаєш?", "tr": "Ne zaman kalkarsin?" },
+      "url": "https://wordwall.net/resource/35729844/deutsch-als-fremdsprache/wann-stehst-du-auf-trennbare-verben",
+      "source": "wordwall.net"
+    },
+    {
+      "type": "link",
+      "title": { "de": "Trennbare Verben Ubung", "es": "Practica verbos separables", "en": "Separable verbs practice", "ar": "تدريب الأفعال القابلة للفصل", "uk": "Практика", "tr": "Pratik" },
+      "url": "https://mein-deutschbuch.de/grammatikuebungen-trennbare-verben.html",
+      "source": "mein-deutschbuch.de"
+    }
+  ]
+}
