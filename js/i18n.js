@@ -11,7 +11,8 @@ const I18N = {
     en: { name: 'English', flag: '🇬🇧' },
     ar: { name: 'العربية', flag: '🇸🇦' },
     uk: { name: 'Українська', flag: '🇺🇦' },
-    tr: { name: 'Turkce', flag: '🇹🇷' }
+    tr: { name: 'Turkce', flag: '🇹🇷' },
+    bs: { name: 'Bosanski', flag: '🇧🇦' }
   },
 
   async load(lang) {

@@ -7,82 +7,186 @@
     "en": "Children and school",
     "ar": "الأطفال والمدرسة",
     "uk": "Дiти i школа",
-    "tr": "Cocuklar ve okul"
+    "tr": "Cocuklar ve okul",
+    "bs": "Djeca i skola"
   },
-
   "vocabulary": [
     {
       "de": "Schule",
       "article": "die",
-      "translations": { "es": "escuela", "en": "school", "ar": "المدرسة", "uk": "школа", "tr": "okul" }
+      "translations": {
+        "es": "escuela",
+        "en": "school",
+        "ar": "المدرسة",
+        "uk": "школа",
+        "tr": "okul",
+        "bs": "skola"
+      }
     },
     {
       "de": "Kindergarten",
       "article": "der",
-      "translations": { "es": "guarderia", "en": "kindergarten", "ar": "روضة الأطفال", "uk": "дитсадок", "tr": "anaokulu" }
+      "translations": {
+        "es": "guarderia",
+        "en": "kindergarten",
+        "ar": "روضة الأطفال",
+        "uk": "дитсадок",
+        "tr": "anaokulu",
+        "bs": "vrtic"
+      }
     },
     {
       "de": "Hausaufgabe",
       "article": "die",
-      "translations": { "es": "deberes, tarea", "en": "homework", "ar": "الواجب", "uk": "домашнє завдання", "tr": "ev odevi" }
+      "translations": {
+        "es": "deberes, tarea",
+        "en": "homework",
+        "ar": "الواجب",
+        "uk": "домашнє завдання",
+        "tr": "ev odevi",
+        "bs": "domaca zadaca"
+      }
     },
     {
       "de": "Test",
       "article": "der",
-      "translations": { "es": "examen, test", "en": "test", "ar": "الاختبار", "uk": "тест", "tr": "sinav" }
+      "translations": {
+        "es": "examen, test",
+        "en": "test",
+        "ar": "الاختبار",
+        "uk": "тест",
+        "tr": "sinav",
+        "bs": "test"
+      }
     },
     {
       "de": "Lehrer",
       "article": "der",
-      "translations": { "es": "profesor", "en": "teacher (m)", "ar": "المعلم", "uk": "вчитель", "tr": "ogretmen (e)" }
+      "translations": {
+        "es": "profesor",
+        "en": "teacher (m)",
+        "ar": "المعلم",
+        "uk": "вчитель",
+        "tr": "ogretmen (e)",
+        "bs": "ucitelj"
+      }
     },
     {
       "de": "Mathe",
       "article": "die",
-      "translations": { "es": "mate", "en": "maths", "ar": "الرياضيات", "uk": "математика", "tr": "matematik" }
+      "translations": {
+        "es": "mate",
+        "en": "maths",
+        "ar": "الرياضيات",
+        "uk": "математика",
+        "tr": "matematik",
+        "bs": "matematika"
+      }
     },
     {
       "de": "Deutsch",
       "article": "das",
-      "translations": { "es": "aleman (asignatura)", "en": "German (subject)", "ar": "الألمانية", "uk": "нiмецька", "tr": "Almanca" }
+      "translations": {
+        "es": "aleman (asignatura)",
+        "en": "German (subject)",
+        "ar": "الألمانية",
+        "uk": "нiмецька",
+        "tr": "Almanca",
+        "bs": "njemacki"
+      }
     },
     {
       "de": "Ausflug",
       "article": "der",
-      "translations": { "es": "excursion", "en": "outing/excursion", "ar": "رحلة", "uk": "екскурсiя", "tr": "gezi" }
+      "translations": {
+        "es": "excursion",
+        "en": "outing/excursion",
+        "ar": "رحلة",
+        "uk": "екскурсiя",
+        "tr": "gezi",
+        "bs": "izlet"
+      }
     },
     {
       "de": "krank",
-      "translations": { "es": "enfermo", "en": "sick", "ar": "مريض", "uk": "хворий", "tr": "hasta" },
+      "translations": {
+        "es": "enfermo",
+        "en": "sick",
+        "ar": "مريض",
+        "uk": "хворий",
+        "tr": "hasta",
+        "bs": "bolestan"
+      },
       "example": "Mein Kind ist krank."
     },
     {
       "de": "wecken",
-      "translations": { "es": "despertar a alguien", "en": "to wake (someone)", "ar": "يوقظ", "uk": "будити", "tr": "uyandirmak" }
+      "translations": {
+        "es": "despertar a alguien",
+        "en": "to wake (someone)",
+        "ar": "يوقظ",
+        "uk": "будити",
+        "tr": "uyandirmak",
+        "bs": "buditi"
+      }
     },
     {
       "de": "lernen",
-      "translations": { "es": "aprender, estudiar", "en": "to learn / study", "ar": "يتعلم", "uk": "вчити", "tr": "ogrenmek" }
+      "translations": {
+        "es": "aprender, estudiar",
+        "en": "to learn / study",
+        "ar": "يتعلم",
+        "uk": "вчити",
+        "tr": "ogrenmek",
+        "bs": "uciti"
+      }
     },
     {
       "de": "schreiben",
-      "translations": { "es": "escribir", "en": "to write", "ar": "يكتب", "uk": "писати", "tr": "yazmak" },
+      "translations": {
+        "es": "escribir",
+        "en": "to write",
+        "ar": "يكتب",
+        "uk": "писати",
+        "tr": "yazmak",
+        "bs": "pisati"
+      },
       "example": "Sie will den Mathetest schreiben."
     },
     {
       "de": "machen",
-      "translations": { "es": "hacer", "en": "to do/make", "ar": "يفعل", "uk": "робити", "tr": "yapmak" }
+      "translations": {
+        "es": "hacer",
+        "en": "to do/make",
+        "ar": "يفعل",
+        "uk": "робити",
+        "tr": "yapmak",
+        "bs": "raditi"
+      }
     },
     {
       "de": "spazieren gehen",
-      "translations": { "es": "ir a pasear", "en": "to go for a walk", "ar": "يتمشى", "uk": "гуляти", "tr": "yuruyuse cikmak" }
+      "translations": {
+        "es": "ir a pasear",
+        "en": "to go for a walk",
+        "ar": "يتمشى",
+        "uk": "гуляти",
+        "tr": "yuruyuse cikmak",
+        "bs": "ici u setnju"
+      }
     },
     {
       "de": "punktlich",
-      "translations": { "es": "puntual", "en": "on time", "ar": "في الموعد", "uk": "вчасно", "tr": "zamaninda" }
+      "translations": {
+        "es": "puntual",
+        "en": "on time",
+        "ar": "في الموعد",
+        "uk": "вчасно",
+        "tr": "zamaninda",
+        "bs": "tacno na vrijeme"
+      }
     }
   ],
-
   "grammar": [
     {
       "title": {
@@ -91,7 +195,8 @@
         "en": "Modal verbs: konnen / wollen",
         "ar": "الأفعال المساعدة: konnen / wollen",
         "uk": "Модальнi дiєслова: konnen / wollen",
-        "tr": "Yardimci fiiller: konnen / wollen"
+        "tr": "Yardimci fiiller: konnen / wollen",
+        "bs": "Modalni glagoli: konnen / wollen"
       },
       "explanation": {
         "de": "konnen = Moglichkeit/Fahigkeit (poder, saber). wollen = Absicht/Wille (querer). Beide unregelmassig.",
@@ -99,17 +204,46 @@
         "en": "konnen = ability/possibility (can). wollen = intention (to want). Both irregular.",
         "ar": "konnen = القدرة. wollen = الإرادة. كلاهما شاذ.",
         "uk": "konnen = можу. wollen = хочу. Обидва неправильнi.",
-        "tr": "konnen = -ebilirim. wollen = istiyorum. Her ikisi de duzensiz."
+        "tr": "konnen = -ebilirim. wollen = istiyorum. Her ikisi de duzensiz.",
+        "bs": "konnen = mogucnost/sposobnost (moci). wollen = namjera (htjeti). Oba nepravilna."
       },
       "table": {
-        "headers": ["Pronomen", "konnen", "wollen"],
+        "headers": [
+          "Pronomen",
+          "konnen",
+          "wollen"
+        ],
         "rows": [
-          ["ich", "kann", "will"],
-          ["du", "kannst", "willst"],
-          ["er/sie/es", "kann", "will"],
-          ["wir", "konnen", "wollen"],
-          ["ihr", "konnt", "wollt"],
-          ["sie/Sie", "konnen", "wollen"]
+          [
+            "ich",
+            "kann",
+            "will"
+          ],
+          [
+            "du",
+            "kannst",
+            "willst"
+          ],
+          [
+            "er/sie/es",
+            "kann",
+            "will"
+          ],
+          [
+            "wir",
+            "konnen",
+            "wollen"
+          ],
+          [
+            "ihr",
+            "konnt",
+            "wollt"
+          ],
+          [
+            "sie/Sie",
+            "konnen",
+            "wollen"
+          ]
         ]
       }
     },
@@ -120,7 +254,8 @@
         "en": "Sentence bracket (modal + infinitive)",
         "ar": "الإطار الجملي",
         "uk": "Рамкова конструкцiя",
-        "tr": "Cumle cercevesi"
+        "tr": "Cumle cercevesi",
+        "bs": "Recenicni okvir (modal + infinitiv)"
       },
       "explanation": {
         "de": "Das Modalverb steht auf Position 2, der Infinitiv steht am SATZENDE. Sie bilden eine Klammer um den Rest des Satzes.",
@@ -128,7 +263,8 @@
         "en": "Modal verb in position 2, infinitive at the END of the sentence. They form a BRACKET around the rest.",
         "ar": "الفعل المساعد في الموضع 2، المصدر في آخر الجملة.",
         "uk": "Модальне дiєслово на 2-й позицiї, iнфiнiтив у КIНЦI речення.",
-        "tr": "Yardimci fiil 2. konumda, mastar cumlenin SONUNDA."
+        "tr": "Yardimci fiil 2. konumda, mastar cumlenin SONUNDA.",
+        "bs": "Modalni glagol je na 2. mjestu, infinitiv ide na KRAJ recenice. Cine OKVIR oko ostatka."
       },
       "examples": [
         "Ich kann nicht in die Schule gehen.",
@@ -144,7 +280,8 @@
         "en": "Perfect tense - the past",
         "ar": "الماضي",
         "uk": "Перфект - минулий час",
-        "tr": "Gecmis zaman"
+        "tr": "Gecmis zaman",
+        "bs": "Perfekt - proslo vrijeme"
       },
       "explanation": {
         "de": "Das Perfekt bilden wir mit haben oder sein + Partizip II. haben fur die meisten Verben. sein fur Bewegung (gehen, fahren, kommen) und Zustandsanderung. Verb-Partizip steht am Ende!",
@@ -152,17 +289,46 @@
         "en": "Perfect tense uses haben or sein + past participle. haben for most verbs. sein for movement (gehen, fahren, kommen) and state change. Participle goes at the END!",
         "ar": "الماضي = haben أو sein + اسم المفعول. haben لمعظم الأفعال. sein للحركة. اسم المفعول في الآخر!",
         "uk": "Перфект = haben або sein + Partizip II. haben для бiльшостi. sein для руху. Дiєприкметник у кiнцi!",
-        "tr": "Gecmis zaman = haben veya sein + gecmis ortac. haben cogu icin. sein hareket fiilleri icin. Ortac sonda!"
+        "tr": "Gecmis zaman = haben veya sein + gecmis ortac. haben cogu icin. sein hareket fiilleri icin. Ortac sonda!",
+        "bs": "Perfekt = haben ili sein + Partizip II. haben za vecinu glagola. sein za kretanje (gehen, fahren)."
       },
       "table": {
-        "headers": ["Infinitiv", "Hilfsverb", "Partizip II"],
+        "headers": [
+          "Infinitiv",
+          "Hilfsverb",
+          "Partizip II"
+        ],
         "rows": [
-          ["machen", "haben", "gemacht"],
-          ["lernen", "haben", "gelernt"],
-          ["essen", "haben", "gegessen"],
-          ["gehen", "sein", "gegangen"],
-          ["fahren", "sein", "gefahren"],
-          ["kommen", "sein", "gekommen"]
+          [
+            "machen",
+            "haben",
+            "gemacht"
+          ],
+          [
+            "lernen",
+            "haben",
+            "gelernt"
+          ],
+          [
+            "essen",
+            "haben",
+            "gegessen"
+          ],
+          [
+            "gehen",
+            "sein",
+            "gegangen"
+          ],
+          [
+            "fahren",
+            "sein",
+            "gefahren"
+          ],
+          [
+            "kommen",
+            "sein",
+            "gekommen"
+          ]
         ]
       },
       "examples": [
@@ -173,54 +339,125 @@
       ]
     }
   ],
-
   "phrases": [
     {
       "de": "Ich kann nicht in die Schule gehen.",
-      "translations": { "es": "No puedo ir a la escuela.", "en": "I can't go to school.", "ar": "لا أستطيع الذهاب إلى المدرسة.", "uk": "Я не можу йти до школи.", "tr": "Okula gidemem." }
+      "translations": {
+        "es": "No puedo ir a la escuela.",
+        "en": "I can't go to school.",
+        "ar": "لا أستطيع الذهاب إلى المدرسة.",
+        "uk": "Я не можу йти до школи.",
+        "tr": "Okula gidemem.",
+        "bs": "Ne mogu ici u skolu."
+      }
     },
     {
       "de": "Mein Kind ist heute krank.",
-      "translations": { "es": "Mi hijo/a esta enfermo hoy.", "en": "My child is sick today.", "ar": "طفلي مريض اليوم.", "uk": "Моя дитина сьогоднi хвора.", "tr": "Cocugum bugun hasta." }
+      "translations": {
+        "es": "Mi hijo/a esta enfermo hoy.",
+        "en": "My child is sick today.",
+        "ar": "طفلي مريض اليوم.",
+        "uk": "Моя дитина сьогоднi хвора.",
+        "tr": "Cocugum bugun hasta.",
+        "bs": "Moje dijete je danas bolesno."
+      }
     },
     {
       "de": "Was hast du gemacht?",
-      "translations": { "es": "Que has hecho?", "en": "What did you do?", "ar": "ماذا فعلت؟", "uk": "Що ти зробив?", "tr": "Ne yaptin?" }
+      "translations": {
+        "es": "Que has hecho?",
+        "en": "What did you do?",
+        "ar": "ماذا فعلت؟",
+        "uk": "Що ти зробив?",
+        "tr": "Ne yaptin?",
+        "bs": "Sta si radio?"
+      }
     },
     {
       "de": "Ich habe Hausaufgaben gemacht.",
-      "translations": { "es": "He hecho los deberes.", "en": "I did my homework.", "ar": "لقد قمت بالواجبات.", "uk": "Я зробив домашнє завдання.", "tr": "Ev odevimi yaptim." }
+      "translations": {
+        "es": "He hecho los deberes.",
+        "en": "I did my homework.",
+        "ar": "لقد قمت بالواجبات.",
+        "uk": "Я зробив домашнє завдання.",
+        "tr": "Ev odevimi yaptim.",
+        "bs": "Uradio sam domacu zadacu."
+      }
     },
     {
       "de": "Konnen Sie bitte Kaffee kaufen?",
-      "translations": { "es": "Puede comprar cafe, por favor?", "en": "Can you buy coffee, please?", "ar": "هل يمكنك شراء قهوة من فضلك؟", "uk": "Чи можете ви купити каву?", "tr": "Lutfen kahve alabilir misiniz?" }
+      "translations": {
+        "es": "Puede comprar cafe, por favor?",
+        "en": "Can you buy coffee, please?",
+        "ar": "هل يمكنك شراء قهوة من فضلك؟",
+        "uk": "Чи можете ви купити каву?",
+        "tr": "Lutfen kahve alabilir misiniz?",
+        "bs": "Mozete li molim kupiti kafu?"
+      }
     },
     {
       "de": "Kannst du Lili wecken?",
-      "translations": { "es": "Puedes despertar a Lili?", "en": "Can you wake Lili?", "ar": "هل يمكنك إيقاظ ليلي؟", "uk": "Можеш розбудити Лiлi?", "tr": "Lili'yi uyandirabilir misin?" }
+      "translations": {
+        "es": "Puedes despertar a Lili?",
+        "en": "Can you wake Lili?",
+        "ar": "هل يمكنك إيقاظ ليلي؟",
+        "uk": "Можеш розбудити Лiлi?",
+        "tr": "Lili'yi uyandirabilir misin?",
+        "bs": "Mozes li probuditi Lili?"
+      }
     },
     {
       "de": "Sie will den Mathetest schreiben.",
-      "translations": { "es": "Quiere hacer el examen de mate.", "en": "She wants to take the maths test.", "ar": "تريد إجراء اختبار الرياضيات.", "uk": "Вона хоче скласти тест з математики.", "tr": "Matematik sinavina girmek istiyor." }
+      "translations": {
+        "es": "Quiere hacer el examen de mate.",
+        "en": "She wants to take the maths test.",
+        "ar": "تريد إجراء اختبار الرياضيات.",
+        "uk": "Вона хоче скласти тест з математики.",
+        "tr": "Matematik sinavina girmek istiyor.",
+        "bs": "Ona zeli pisati test iz matematike."
+      }
     }
   ],
-
   "exercises": [
     {
       "type": "link",
-      "title": { "de": "Modalverben A1", "es": "Verbos modales A1", "en": "Modal verbs A1", "ar": "الأفعال المساعدة A1", "uk": "Модальнi A1", "tr": "Yardimci fiiller A1" },
+      "title": {
+        "de": "Modalverben A1",
+        "es": "Verbos modales A1",
+        "en": "Modal verbs A1",
+        "ar": "الأفعال المساعدة A1",
+        "uk": "Модальнi A1",
+        "tr": "Yardimci fiiller A1",
+        "bs": "Modalni glagoli A1"
+      },
       "url": "https://wordwall.net/de/resource/4378829/modalverben",
       "source": "wordwall.net"
     },
     {
       "type": "link",
-      "title": { "de": "Perfekt A1 mit haben/sein", "es": "Perfecto A1 con haben/sein", "en": "Perfect A1 with haben/sein", "ar": "الماضي A1", "uk": "Перфект A1", "tr": "Gecmis zaman A1" },
+      "title": {
+        "de": "Perfekt A1 mit haben/sein",
+        "es": "Perfecto A1 con haben/sein",
+        "en": "Perfect A1 with haben/sein",
+        "ar": "الماضي A1",
+        "uk": "Перфект A1",
+        "tr": "Gecmis zaman A1",
+        "bs": "Perfekt A1 sa haben/sein"
+      },
       "url": "https://wordwall.net/de/resource/2034598/perfekt-a1",
       "source": "wordwall.net"
     },
     {
       "type": "link",
-      "title": { "de": "konnen / wollen Konjugation", "es": "Conjugacion konnen/wollen", "en": "konnen/wollen conjugation", "ar": "تصريف konnen/wollen", "uk": "Дiєвiдмiна", "tr": "Cekim" },
+      "title": {
+        "de": "konnen / wollen Konjugation",
+        "es": "Conjugacion konnen/wollen",
+        "en": "konnen/wollen conjugation",
+        "ar": "تصريف konnen/wollen",
+        "uk": "Дiєвiдмiна",
+        "tr": "Cekim",
+        "bs": "konnen/wollen konjugacija"
+      },
       "url": "https://mein-deutschbuch.de/grammatikuebungen-modalverben.html",
       "source": "mein-deutschbuch.de"
     }

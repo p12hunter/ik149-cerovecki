@@ -13,7 +13,8 @@
         "en": "Hello. My name is...",
         "ar": "مرحبا. اسمي...",
         "uk": "Доброго дня. Мене звати...",
-        "tr": "Merhaba. Benim adim..."
+        "tr": "Merhaba. Benim adim...",
+        "bs": "Dobar dan. Zovem se..."
       },
       "description": {
         "de": "Sich vorstellen, Herkunft, Sprachen, Alphabet, Zahlen 1-20.",
@@ -21,7 +22,8 @@
         "en": "Introducing yourself, origin, languages, alphabet, numbers 1-20.",
         "ar": "التعريف بالنفس، الأصل، اللغات، الأبجدية، الأرقام 1-20.",
         "uk": "Знайомство, походження, мови, алфавiт, числа 1-20.",
-        "tr": "Kendini tanitma, kokenin, diller, alfabe, sayilar 1-20."
+        "tr": "Kendini tanitma, kokenin, diller, alfabe, sayilar 1-20.",
+        "bs": "Sich vorstellen, Herkunft, Sprachen, Alphabet, Zahlen 1-20."
       },
       "classes": 5,
       "status": "available"
@@ -35,7 +37,8 @@
         "en": "My family",
         "ar": "عائلتي",
         "uk": "Моя сiм'я",
-        "tr": "Ailem"
+        "tr": "Ailem",
+        "bs": "Moja porodica"
       },
       "description": {
         "de": "Familie, Befinden, Wohnort, Possessivartikel, Verb haben/sein.",
@@ -43,7 +46,8 @@
         "en": "Family, how are you, place of residence, possessives, verbs haben/sein.",
         "ar": "العائلة، كيف حالك، مكان الإقامة، ضمائر الملكية، الأفعال haben/sein.",
         "uk": "Сiм'я, як справи, мiсце проживання, присвiйнi займенники, дiєслова haben/sein.",
-        "tr": "Aile, nasilsin, ikamet yeri, iyelik zamirleri, haben/sein fiilleri."
+        "tr": "Aile, nasilsin, ikamet yeri, iyelik zamirleri, haben/sein fiilleri.",
+        "bs": "Familie, Befinden, Wohnort, Possessivartikel, Verb haben/sein."
       },
       "classes": 0,
       "status": "available"
@@ -57,7 +61,8 @@
         "en": "Shopping",
         "ar": "التسوق",
         "uk": "Покупки",
-        "tr": "Alisveris"
+        "tr": "Alisveris",
+        "bs": "Kupovina"
       },
       "description": {
         "de": "Lebensmittel, Mengen, Preise, Artikel ein/eine/kein, mochte-Verb.",
@@ -65,7 +70,8 @@
         "en": "Food, quantities, prices, articles ein/eine/kein, mochte verb.",
         "ar": "الأطعمة، الكميات، الأسعار، أدوات التعريف ein/eine/kein، الفعل mochte.",
         "uk": "Їжа, кiлькостi, цiни, артиклi ein/eine/kein, дiєслово mochte.",
-        "tr": "Gida, miktarlar, fiyatlar, artikeller ein/eine/kein, mochte fiili."
+        "tr": "Gida, miktarlar, fiyatlar, artikeller ein/eine/kein, mochte fiili.",
+        "bs": "Lebensmittel, Mengen, Preise, Artikel ein/eine/kein, mochte-Verb."
       },
       "classes": 0,
       "status": "available"
@@ -79,7 +85,8 @@
         "en": "My home",
         "ar": "بيتي",
         "uk": "Моя квартира",
-        "tr": "Evim"
+        "tr": "Evim",
+        "bs": "Moj stan"
       },
       "description": {
         "de": "Zimmer, Mobel, Farben, definite Artikel der/das/die, Negation nicht.",
@@ -87,7 +94,8 @@
         "en": "Rooms, furniture, colours, definite articles der/das/die, negation nicht.",
         "ar": "الغرف، الأثاث، الألوان، أدوات التعريف der/das/die، النفي nicht.",
         "uk": "Кiмнати, меблi, кольори, означенi артиклi der/das/die, заперечення nicht.",
-        "tr": "Odalar, mobilya, renkler, belirli artikeller der/das/die, olumsuzluk nicht."
+        "tr": "Odalar, mobilya, renkler, belirli artikeller der/das/die, olumsuzluk nicht.",
+        "bs": "Zimmer, Mobel, Farben, definite Artikel der/das/die, Negation nicht."
       },
       "classes": 0,
       "status": "available"
@@ -101,7 +109,8 @@
         "en": "My day",
         "ar": "يومي",
         "uk": "Мiй день",
-        "tr": "Gunum"
+        "tr": "Gunum",
+        "bs": "Moj dan"
       },
       "description": {
         "de": "Tageszeiten, Uhrzeit, Wochentage, trennbare Verben.",
@@ -109,7 +118,8 @@
         "en": "Times of day, clock time, weekdays, separable verbs.",
         "ar": "أوقات اليوم، الساعة، أيام الأسبوع، الأفعال القابلة للفصل.",
         "uk": "Часи доби, годинник, днi тижня, вiдокремлюванi дiєслова.",
-        "tr": "Gunun bolumleri, saat, haftanin gunleri, ayrilabilir fiiller."
+        "tr": "Gunun bolumleri, saat, haftanin gunleri, ayrilabilir fiiller.",
+        "bs": "Tageszeiten, Uhrzeit, Wochentage, trennbare Verben."
       },
       "classes": 0,
       "status": "available"
@@ -123,7 +133,8 @@
         "en": "Free time",
         "ar": "وقت الفراغ",
         "uk": "Вiльний час",
-        "tr": "Bos zaman"
+        "tr": "Bos zaman",
+        "bs": "Slobodno vrijeme"
       },
       "description": {
         "de": "Hobbys, Wetter, Akkusativ, ja/nein/doch.",
@@ -131,7 +142,8 @@
         "en": "Hobbies, weather, accusative, ja/nein/doch.",
         "ar": "الهوايات، الطقس، حالة المفعول به، ja/nein/doch.",
         "uk": "Хобi, погода, знахiдний вiдмiнок, ja/nein/doch.",
-        "tr": "Hobiler, hava, ismin -i hali, ja/nein/doch."
+        "tr": "Hobiler, hava, ismin -i hali, ja/nein/doch.",
+        "bs": "Hobbys, Wetter, Akkusativ, ja/nein/doch."
       },
       "classes": 0,
       "status": "available"
@@ -145,7 +157,8 @@
         "en": "Children and school",
         "ar": "الأطفال والمدرسة",
         "uk": "Дiти i школа",
-        "tr": "Cocuklar ve okul"
+        "tr": "Cocuklar ve okul",
+        "bs": "Djeca i skola"
       },
       "description": {
         "de": "Modalverben konnen/wollen, Satzklammer, Perfekt mit haben/sein.",
@@ -153,7 +166,8 @@
         "en": "Modal verbs konnen/wollen, sentence bracket, perfect with haben/sein.",
         "ar": "الأفعال المساعدة konnen/wollen، الإطار الجملي، الماضي مع haben/sein.",
         "uk": "Модальнi дiєслова konnen/wollen, рамкова конструкцiя, перфект з haben/sein.",
-        "tr": "Yardimci fiiller konnen/wollen, cumle cercevesi, haben/sein ile gecmis zaman."
+        "tr": "Yardimci fiiller konnen/wollen, cumle cercevesi, haben/sein ile gecmis zaman.",
+        "bs": "Modalverben konnen/wollen, Satzklammer, Perfekt mit haben/sein."
       },
       "classes": 0,
       "status": "available"

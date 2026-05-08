@@ -7,95 +7,206 @@
     "en": "My family",
     "ar": "عائلتي",
     "uk": "Моя сiм'я",
-    "tr": "Ailem"
+    "tr": "Ailem",
+    "bs": "Moja porodica"
   },
-
   "vocabulary": [
     {
       "de": "Familie",
       "article": "die",
-      "translations": { "es": "familia", "en": "family", "ar": "العائلة", "uk": "сiм'я", "tr": "aile" },
+      "translations": {
+        "es": "familia",
+        "en": "family",
+        "ar": "العائلة",
+        "uk": "сiм'я",
+        "tr": "aile",
+        "bs": "porodica"
+      },
       "example": "Das ist meine Familie."
     },
     {
       "de": "Vater",
       "article": "der",
-      "translations": { "es": "padre", "en": "father", "ar": "الأب", "uk": "батько", "tr": "baba" }
+      "translations": {
+        "es": "padre",
+        "en": "father",
+        "ar": "الأب",
+        "uk": "батько",
+        "tr": "baba",
+        "bs": "otac"
+      }
     },
     {
       "de": "Mutter",
       "article": "die",
-      "translations": { "es": "madre", "en": "mother", "ar": "الأم", "uk": "мати", "tr": "anne" }
+      "translations": {
+        "es": "madre",
+        "en": "mother",
+        "ar": "الأم",
+        "uk": "мати",
+        "tr": "anne",
+        "bs": "majka"
+      }
     },
     {
       "de": "Bruder",
       "article": "der",
-      "translations": { "es": "hermano", "en": "brother", "ar": "الأخ", "uk": "брат", "tr": "erkek kardes" },
+      "translations": {
+        "es": "hermano",
+        "en": "brother",
+        "ar": "الأخ",
+        "uk": "брат",
+        "tr": "erkek kardes",
+        "bs": "brat"
+      },
       "example": "Das ist mein Bruder."
     },
     {
       "de": "Schwester",
       "article": "die",
-      "translations": { "es": "hermana", "en": "sister", "ar": "الأخت", "uk": "сестра", "tr": "kiz kardes" }
+      "translations": {
+        "es": "hermana",
+        "en": "sister",
+        "ar": "الأخت",
+        "uk": "сестра",
+        "tr": "kiz kardes",
+        "bs": "sestra"
+      }
     },
     {
       "de": "Sohn",
       "article": "der",
-      "translations": { "es": "hijo", "en": "son", "ar": "الابن", "uk": "син", "tr": "ogul" }
+      "translations": {
+        "es": "hijo",
+        "en": "son",
+        "ar": "الابن",
+        "uk": "син",
+        "tr": "ogul",
+        "bs": "sin"
+      }
     },
     {
       "de": "Tochter",
       "article": "die",
-      "translations": { "es": "hija", "en": "daughter", "ar": "الابنة", "uk": "дочка", "tr": "kiz" }
+      "translations": {
+        "es": "hija",
+        "en": "daughter",
+        "ar": "الابنة",
+        "uk": "дочка",
+        "tr": "kiz",
+        "bs": "kcer"
+      }
     },
     {
       "de": "Eltern",
       "article": "die",
-      "translations": { "es": "padres", "en": "parents", "ar": "الوالدين", "uk": "батьки", "tr": "anne baba" },
+      "translations": {
+        "es": "padres",
+        "en": "parents",
+        "ar": "الوالدين",
+        "uk": "батьки",
+        "tr": "anne baba",
+        "bs": "roditelji"
+      },
       "example": "Meine Eltern leben in Polen."
     },
     {
       "de": "Kind",
       "article": "das",
-      "translations": { "es": "nino/a", "en": "child", "ar": "الطفل", "uk": "дитина", "tr": "cocuk" }
+      "translations": {
+        "es": "nino/a",
+        "en": "child",
+        "ar": "الطفل",
+        "uk": "дитина",
+        "tr": "cocuk",
+        "bs": "dijete"
+      }
     },
     {
       "de": "Mann",
       "article": "der",
-      "translations": { "es": "hombre / esposo", "en": "man / husband", "ar": "الرجل / الزوج", "uk": "чоловiк", "tr": "adam / koca" }
+      "translations": {
+        "es": "hombre / esposo",
+        "en": "man / husband",
+        "ar": "الرجل / الزوج",
+        "uk": "чоловiк",
+        "tr": "adam / koca",
+        "bs": "muz / muskarac"
+      }
     },
     {
       "de": "Frau",
       "article": "die",
-      "translations": { "es": "mujer / esposa / senora", "en": "woman / wife", "ar": "المرأة / الزوجة", "uk": "жiнка / дружина", "tr": "kadin / esi" }
+      "translations": {
+        "es": "mujer / esposa / senora",
+        "en": "woman / wife",
+        "ar": "المرأة / الزوجة",
+        "uk": "жiнка / дружина",
+        "tr": "kadin / esi",
+        "bs": "zena / supruga"
+      }
     },
     {
       "de": "Oma",
       "article": "die",
-      "translations": { "es": "abuela", "en": "grandma", "ar": "الجدة", "uk": "бабуся", "tr": "buyukanne" }
+      "translations": {
+        "es": "abuela",
+        "en": "grandma",
+        "ar": "الجدة",
+        "uk": "бабуся",
+        "tr": "buyukanne",
+        "bs": "baka"
+      }
     },
     {
       "de": "Opa",
       "article": "der",
-      "translations": { "es": "abuelo", "en": "grandpa", "ar": "الجد", "uk": "дiдусь", "tr": "buyukbaba" }
+      "translations": {
+        "es": "abuelo",
+        "en": "grandpa",
+        "ar": "الجد",
+        "uk": "дiдусь",
+        "tr": "buyukbaba",
+        "bs": "djed"
+      }
     },
     {
       "de": "leben",
-      "translations": { "es": "vivir", "en": "to live", "ar": "يعيش", "uk": "жити", "tr": "yasamak" },
+      "translations": {
+        "es": "vivir",
+        "en": "to live",
+        "ar": "يعيش",
+        "uk": "жити",
+        "tr": "yasamak",
+        "bs": "zivjeti"
+      },
       "example": "Er lebt in Poznan."
     },
     {
       "de": "haben",
-      "translations": { "es": "tener", "en": "to have", "ar": "يملك", "uk": "мати", "tr": "sahip olmak" },
+      "translations": {
+        "es": "tener",
+        "en": "to have",
+        "ar": "يملك",
+        "uk": "мати",
+        "tr": "sahip olmak",
+        "bs": "imati"
+      },
       "example": "Ich habe zwei Kinder."
     },
     {
       "de": "Wohnort",
       "article": "der",
-      "translations": { "es": "lugar de residencia", "en": "place of residence", "ar": "مكان الإقامة", "uk": "мiсце проживання", "tr": "ikamet yeri" }
+      "translations": {
+        "es": "lugar de residencia",
+        "en": "place of residence",
+        "ar": "مكان الإقامة",
+        "uk": "мiсце проживання",
+        "tr": "ikamet yeri",
+        "bs": "mjesto stanovanja"
+      }
     }
   ],
-
   "grammar": [
     {
       "title": {
@@ -104,7 +215,8 @@
         "en": "Possessive articles: mein, dein, Ihr",
         "ar": "ضمائر الملكية: mein, dein, Ihr",
         "uk": "Присвiйнi артиклi: mein, dein, Ihr",
-        "tr": "Iyelik artikelleri: mein, dein, Ihr"
+        "tr": "Iyelik artikelleri: mein, dein, Ihr",
+        "bs": "Prisvojni clanovi: mein, dein, Ihr"
       },
       "explanation": {
         "de": "Mein/dein/Ihr werden mit maskulinen und neutralen Nomen verwendet. Bei femininen Nomen und Plural fugen wir ein -e hinzu: meine/deine/Ihre.",
@@ -112,14 +224,31 @@
         "en": "Mein/dein/Ihr are used with masculine and neuter nouns. With feminine nouns and plural add -e: meine/deine/Ihre.",
         "ar": "تستخدم mein/dein/Ihr مع أسماء مذكرة ومحايدة. مع المؤنث والجمع نضيف -e: meine/deine/Ihre.",
         "uk": "Mein/dein/Ihr вживаються з чоловiчими i середнiми iменниками. З жiночими i множиною додаємо -e.",
-        "tr": "Mein/dein/Ihr eril ve cinssiz isimlerle kullanilir. Disil ve cogulda -e ekleriz."
+        "tr": "Mein/dein/Ihr eril ve cinssiz isimlerle kullanilir. Disil ve cogulda -e ekleriz.",
+        "bs": "Mein/dein/Ihr koriste se sa muskim i srednjim imenicama. Sa zenskim i mnozinom dodajemo -e."
       },
       "table": {
-        "headers": ["Pronomen", "der/das (m/n)", "die / Plural (f/pl)"],
+        "headers": [
+          "Pronomen",
+          "der/das (m/n)",
+          "die / Plural (f/pl)"
+        ],
         "rows": [
-          ["ich", "mein", "meine"],
-          ["du", "dein", "deine"],
-          ["Sie (formal)", "Ihr", "Ihre"]
+          [
+            "ich",
+            "mein",
+            "meine"
+          ],
+          [
+            "du",
+            "dein",
+            "deine"
+          ],
+          [
+            "Sie (formal)",
+            "Ihr",
+            "Ihre"
+          ]
         ]
       },
       "examples": [
@@ -135,7 +264,8 @@
         "en": "Verb haben (to have) - irregular",
         "ar": "الفعل haben (يملك) - شاذ",
         "uk": "Дiєслово haben (мати) - неправильне",
-        "tr": "haben fiili (sahip olmak) - duzensiz"
+        "tr": "haben fiili (sahip olmak) - duzensiz",
+        "bs": "Glagol haben (imati) - nepravilan"
       },
       "explanation": {
         "de": "Das Verb haben ist unregelmassig. Sehr wichtig fur Sprache und Grammatik.",
@@ -143,17 +273,39 @@
         "en": "The verb haben is irregular. Very important for language and grammar.",
         "ar": "الفعل haben شاذ. مهم جدا.",
         "uk": "Дiєслово haben - неправильне. Дуже важливе.",
-        "tr": "haben fiili duzensizdir. Cok onemli."
+        "tr": "haben fiili duzensizdir. Cok onemli.",
+        "bs": "Glagol haben je nepravilan. Vrlo vazan za jezik i gramatiku."
       },
       "table": {
-        "headers": ["Pronomen", "haben"],
+        "headers": [
+          "Pronomen",
+          "haben"
+        ],
         "rows": [
-          ["ich", "habe"],
-          ["du", "hast"],
-          ["er/sie/es", "hat"],
-          ["wir", "haben"],
-          ["ihr", "habt"],
-          ["sie/Sie", "haben"]
+          [
+            "ich",
+            "habe"
+          ],
+          [
+            "du",
+            "hast"
+          ],
+          [
+            "er/sie/es",
+            "hat"
+          ],
+          [
+            "wir",
+            "haben"
+          ],
+          [
+            "ihr",
+            "habt"
+          ],
+          [
+            "sie/Sie",
+            "haben"
+          ]
         ]
       },
       "examples": [
@@ -169,7 +321,8 @@
         "en": "Preposition in + city/country",
         "ar": "حرف الجر in + المدينة / البلد",
         "uk": "Прийменник in + мiсто/країна",
-        "tr": "Edat in + sehir/ulke"
+        "tr": "Edat in + sehir/ulke",
+        "bs": "Prijedlog in + grad/drzava"
       },
       "explanation": {
         "de": "Mit in sagen wir, wo wir wohnen oder leben. Bei Stadten ohne Artikel: in Madrid, in Berlin. Bei Landern mit Artikel: in der Turkei, in den USA.",
@@ -177,7 +330,8 @@
         "en": "With in we say where we live. Cities without article: in Madrid, in Berlin. Countries with article: in der Turkei, in den USA.",
         "ar": "مع in نقول أين نعيش. مع المدن بدون أداة: in Madrid. مع البلدان بأداة: in der Turkei.",
         "uk": "З in говоримо де живемо. Мiста без артикля. Країни з артиклем: in der Turkei.",
-        "tr": "in ile nerede yasadigimizi soyleriz. Sehir artikelsiz. Artikelli ulke: in der Turkei."
+        "tr": "in ile nerede yasadigimizi soyleriz. Sehir artikelsiz. Artikelli ulke: in der Turkei.",
+        "bs": "Sa in kazemo gdje zivimo. Gradovi bez clana. Drzave sa clanom: in der Turkei."
       },
       "examples": [
         "Ich wohne in Munchen.",
@@ -186,52 +340,122 @@
       ]
     }
   ],
-
   "phrases": [
     {
       "de": "Wie geht's? - Danke, gut.",
-      "translations": { "es": "Como estas? - Gracias, bien.", "en": "How are you? - Thanks, good.", "ar": "كيف حالك؟ - شكرا، بخير.", "uk": "Як справи? - Дякую, добре.", "tr": "Nasilsin? - Tesekkurler, iyiyim." }
+      "translations": {
+        "es": "Como estas? - Gracias, bien.",
+        "en": "How are you? - Thanks, good.",
+        "ar": "كيف حالك؟ - شكرا، بخير.",
+        "uk": "Як справи? - Дякую, добре.",
+        "tr": "Nasilsin? - Tesekkurler, iyiyim.",
+        "bs": "Kako si? - Hvala, dobro."
+      }
     },
     {
       "de": "Das ist mein Bruder.",
-      "translations": { "es": "Este es mi hermano.", "en": "This is my brother.", "ar": "هذا أخي.", "uk": "Це мiй брат.", "tr": "Bu benim erkek kardesim." }
+      "translations": {
+        "es": "Este es mi hermano.",
+        "en": "This is my brother.",
+        "ar": "هذا أخي.",
+        "uk": "Це мiй брат.",
+        "tr": "Bu benim erkek kardesim.",
+        "bs": "To je moj brat."
+      }
     },
     {
       "de": "Hast du Kinder?",
-      "translations": { "es": "Tienes hijos?", "en": "Do you have children?", "ar": "هل لديك أطفال؟", "uk": "У тебе є дiти?", "tr": "Cocuklarin var mi?" }
+      "translations": {
+        "es": "Tienes hijos?",
+        "en": "Do you have children?",
+        "ar": "هل لديك أطفال؟",
+        "uk": "У тебе є дiти?",
+        "tr": "Cocuklarin var mi?",
+        "bs": "Imas li djece?"
+      }
     },
     {
       "de": "Ja, ich habe einen Sohn und eine Tochter.",
-      "translations": { "es": "Si, tengo un hijo y una hija.", "en": "Yes, I have a son and a daughter.", "ar": "نعم، لدي ابن وابنة.", "uk": "Так, у мене син i дочка.", "tr": "Evet, bir oglum ve bir kizim var." }
+      "translations": {
+        "es": "Si, tengo un hijo y una hija.",
+        "en": "Yes, I have a son and a daughter.",
+        "ar": "نعم، لدي ابن وابنة.",
+        "uk": "Так, у мене син i дочка.",
+        "tr": "Evet, bir oglum ve bir kizim var.",
+        "bs": "Da, imam sina i kcer."
+      }
     },
     {
       "de": "Wo lebt deine Familie?",
-      "translations": { "es": "Donde vive tu familia?", "en": "Where does your family live?", "ar": "أين تعيش عائلتك؟", "uk": "Де живе твоя сiм'я?", "tr": "Ailen nerede yasiyor?" }
+      "translations": {
+        "es": "Donde vive tu familia?",
+        "en": "Where does your family live?",
+        "ar": "أين تعيش عائلتك؟",
+        "uk": "Де живе твоя сiм'я?",
+        "tr": "Ailen nerede yasiyor?",
+        "bs": "Gdje zivi tvoja porodica?"
+      }
     },
     {
       "de": "Meine Eltern leben in Spanien.",
-      "translations": { "es": "Mis padres viven en Espana.", "en": "My parents live in Spain.", "ar": "والداي يعيشان في إسبانيا.", "uk": "Мої батьки живуть в Iспанiї.", "tr": "Ailem Ispanya'da yasiyor." }
+      "translations": {
+        "es": "Mis padres viven en Espana.",
+        "en": "My parents live in Spain.",
+        "ar": "والداي يعيشان في إسبانيا.",
+        "uk": "Мої батьки живуть в Iспанiї.",
+        "tr": "Ailem Ispanya'da yasiyor.",
+        "bs": "Moji roditelji zive u Spaniji."
+      }
     },
     {
       "de": "Wie heisst deine Mutter?",
-      "translations": { "es": "Como se llama tu madre?", "en": "What's your mother's name?", "ar": "ما اسم والدتك؟", "uk": "Як звати твою маму?", "tr": "Annenin adi ne?" }
+      "translations": {
+        "es": "Como se llama tu madre?",
+        "en": "What's your mother's name?",
+        "ar": "ما اسم والدتك؟",
+        "uk": "Як звати твою маму?",
+        "tr": "Annenin adi ne?",
+        "bs": "Kako se zove tvoja majka?"
+      }
     },
     {
       "de": "Sie heisst Maria und lebt in Madrid.",
-      "translations": { "es": "Se llama Maria y vive en Madrid.", "en": "Her name is Maria and she lives in Madrid.", "ar": "اسمها ماريا وتعيش في مدريد.", "uk": "Її звати Марiя i вона живе в Мадридi.", "tr": "Adi Maria ve Madrid'de yasiyor." }
+      "translations": {
+        "es": "Se llama Maria y vive en Madrid.",
+        "en": "Her name is Maria and she lives in Madrid.",
+        "ar": "اسمها ماريا وتعيش في مدريد.",
+        "uk": "Її звати Марiя i вона живе в Мадридi.",
+        "tr": "Adi Maria ve Madrid'de yasiyor.",
+        "bs": "Zove se Maria i zivi u Madridu."
+      }
     }
   ],
-
   "exercises": [
     {
       "type": "link",
-      "title": { "de": "Familie Wortschatz", "es": "Vocabulario familia", "en": "Family vocabulary", "ar": "مفردات العائلة", "uk": "Лексика сiм'я", "tr": "Aile kelimeleri" },
+      "title": {
+        "de": "Familie Wortschatz",
+        "es": "Vocabulario familia",
+        "en": "Family vocabulary",
+        "ar": "مفردات العائلة",
+        "uk": "Лексика сiм'я",
+        "tr": "Aile kelimeleri",
+        "bs": "Vokabular porodica"
+      },
       "url": "https://wordwall.net/de/resource/3137817/deutsch/familie",
       "source": "wordwall.net"
     },
     {
       "type": "link",
-      "title": { "de": "Possessivartikel A1", "es": "Posesivos A1", "en": "Possessive articles A1", "ar": "ضمائر الملكية A1", "uk": "Присвiйнi артиклi A1", "tr": "Iyelik artikelleri A1" },
+      "title": {
+        "de": "Possessivartikel A1",
+        "es": "Posesivos A1",
+        "en": "Possessive articles A1",
+        "ar": "ضمائر الملكية A1",
+        "uk": "Присвiйнi артиклi A1",
+        "tr": "Iyelik artikelleri A1",
+        "bs": "Prisvojni clanovi A1"
+      },
       "url": "https://mein-deutschbuch.de/grammatikuebungen-possessivpronomen.html",
       "source": "mein-deutschbuch.de"
     }

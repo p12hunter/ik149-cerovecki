@@ -7,106 +7,238 @@
     "en": "Free time",
     "ar": "وقت الفراغ",
     "uk": "Вiльний час",
-    "tr": "Bos zaman"
+    "tr": "Bos zaman",
+    "bs": "Slobodno vrijeme"
   },
-
   "vocabulary": [
     {
       "de": "Freizeit",
       "article": "die",
-      "translations": { "es": "tiempo libre", "en": "free time", "ar": "وقت الفراغ", "uk": "вiльний час", "tr": "bos zaman" }
+      "translations": {
+        "es": "tiempo libre",
+        "en": "free time",
+        "ar": "وقت الفراغ",
+        "uk": "вiльний час",
+        "tr": "bos zaman",
+        "bs": "slobodno vrijeme"
+      }
     },
     {
       "de": "Hobby",
       "article": "das",
-      "translations": { "es": "pasatiempo", "en": "hobby", "ar": "هواية", "uk": "хобi", "tr": "hobi" }
+      "translations": {
+        "es": "pasatiempo",
+        "en": "hobby",
+        "ar": "هواية",
+        "uk": "хобi",
+        "tr": "hobi",
+        "bs": "hobi"
+      }
     },
     {
       "de": "Sport",
       "article": "der",
-      "translations": { "es": "deporte", "en": "sport", "ar": "الرياضة", "uk": "спорт", "tr": "spor" },
+      "translations": {
+        "es": "deporte",
+        "en": "sport",
+        "ar": "الرياضة",
+        "uk": "спорт",
+        "tr": "spor",
+        "bs": "sport"
+      },
       "example": "Ich mache Sport."
     },
     {
       "de": "Musik",
       "article": "die",
-      "translations": { "es": "musica", "en": "music", "ar": "الموسيقى", "uk": "музика", "tr": "muzik" }
+      "translations": {
+        "es": "musica",
+        "en": "music",
+        "ar": "الموسيقى",
+        "uk": "музика",
+        "tr": "muzik",
+        "bs": "muzika"
+      }
     },
     {
       "de": "Buch",
       "article": "das",
-      "translations": { "es": "libro", "en": "book", "ar": "الكتاب", "uk": "книга", "tr": "kitap" }
+      "translations": {
+        "es": "libro",
+        "en": "book",
+        "ar": "الكتاب",
+        "uk": "книга",
+        "tr": "kitap",
+        "bs": "knjiga"
+      }
     },
     {
       "de": "Wetter",
       "article": "das",
-      "translations": { "es": "tiempo (clima)", "en": "weather", "ar": "الطقس", "uk": "погода", "tr": "hava" }
+      "translations": {
+        "es": "tiempo (clima)",
+        "en": "weather",
+        "ar": "الطقس",
+        "uk": "погода",
+        "tr": "hava",
+        "bs": "vrijeme"
+      }
     },
     {
       "de": "Sonne",
       "article": "die",
-      "translations": { "es": "sol", "en": "sun", "ar": "الشمس", "uk": "сонце", "tr": "gunes" }
+      "translations": {
+        "es": "sol",
+        "en": "sun",
+        "ar": "الشمس",
+        "uk": "сонце",
+        "tr": "gunes",
+        "bs": "sunce"
+      }
     },
     {
       "de": "Regen",
       "article": "der",
-      "translations": { "es": "lluvia", "en": "rain", "ar": "المطر", "uk": "дощ", "tr": "yagmur" }
+      "translations": {
+        "es": "lluvia",
+        "en": "rain",
+        "ar": "المطر",
+        "uk": "дощ",
+        "tr": "yagmur",
+        "bs": "kisa"
+      }
     },
     {
       "de": "Schnee",
       "article": "der",
-      "translations": { "es": "nieve", "en": "snow", "ar": "الثلج", "uk": "снiг", "tr": "kar" }
+      "translations": {
+        "es": "nieve",
+        "en": "snow",
+        "ar": "الثلج",
+        "uk": "снiг",
+        "tr": "kar",
+        "bs": "snijeg"
+      }
     },
     {
       "de": "Wind",
       "article": "der",
-      "translations": { "es": "viento", "en": "wind", "ar": "الرياح", "uk": "вiтер", "tr": "ruzgar" }
+      "translations": {
+        "es": "viento",
+        "en": "wind",
+        "ar": "الرياح",
+        "uk": "вiтер",
+        "tr": "ruzgar",
+        "bs": "vjetar"
+      }
     },
     {
       "de": "warm",
-      "translations": { "es": "calido", "en": "warm", "ar": "دافئ", "uk": "теплий", "tr": "sicak" }
+      "translations": {
+        "es": "calido",
+        "en": "warm",
+        "ar": "دافئ",
+        "uk": "теплий",
+        "tr": "sicak",
+        "bs": "toplo"
+      }
     },
     {
       "de": "kalt",
-      "translations": { "es": "frio", "en": "cold", "ar": "بارد", "uk": "холодний", "tr": "soguk" }
+      "translations": {
+        "es": "frio",
+        "en": "cold",
+        "ar": "بارد",
+        "uk": "холодний",
+        "tr": "soguk",
+        "bs": "hladno"
+      }
     },
     {
       "de": "lesen",
-      "translations": { "es": "leer", "en": "to read", "ar": "يقرأ", "uk": "читати", "tr": "okumak" },
+      "translations": {
+        "es": "leer",
+        "en": "to read",
+        "ar": "يقرأ",
+        "uk": "читати",
+        "tr": "okumak",
+        "bs": "citati"
+      },
       "example": "Ich lese ein Buch. (du liest, er liest)"
     },
     {
       "de": "fahren",
-      "translations": { "es": "ir/conducir", "en": "to drive/go", "ar": "يقود", "uk": "їхати", "tr": "gitmek/surmek" },
+      "translations": {
+        "es": "ir/conducir",
+        "en": "to drive/go",
+        "ar": "يقود",
+        "uk": "їхати",
+        "tr": "gitmek/surmek",
+        "bs": "voziti / putovati"
+      },
       "example": "Ich fahre nach Berlin. (du fahrst, er fahrt)"
     },
     {
       "de": "treffen",
-      "translations": { "es": "encontrarse con", "en": "to meet", "ar": "يلتقي", "uk": "зустрiчати", "tr": "bulusmak" },
+      "translations": {
+        "es": "encontrarse con",
+        "en": "to meet",
+        "ar": "يلتقي",
+        "uk": "зустрiчати",
+        "tr": "bulusmak",
+        "bs": "sresti / sastati"
+      },
       "example": "Ich treffe Freunde. (du triffst, er trifft)"
     },
     {
       "de": "nehmen",
-      "translations": { "es": "tomar/coger", "en": "to take", "ar": "يأخذ", "uk": "брати", "tr": "almak" },
+      "translations": {
+        "es": "tomar/coger",
+        "en": "to take",
+        "ar": "يأخذ",
+        "uk": "брати",
+        "tr": "almak",
+        "bs": "uzeti"
+      },
       "example": "Ich nehme einen Kaffee. (du nimmst, er nimmt)"
     },
     {
       "de": "Salat",
       "article": "der",
-      "translations": { "es": "ensalada", "en": "salad", "ar": "السلطة", "uk": "салат", "tr": "salata" }
+      "translations": {
+        "es": "ensalada",
+        "en": "salad",
+        "ar": "السلطة",
+        "uk": "салат",
+        "tr": "salata",
+        "bs": "salata"
+      }
     },
     {
       "de": "Tee",
       "article": "der",
-      "translations": { "es": "te", "en": "tea", "ar": "الشاي", "uk": "чай", "tr": "cay" }
+      "translations": {
+        "es": "te",
+        "en": "tea",
+        "ar": "الشاي",
+        "uk": "чай",
+        "tr": "cay",
+        "bs": "caj"
+      }
     },
     {
       "de": "Saft",
       "article": "der",
-      "translations": { "es": "zumo", "en": "juice", "ar": "العصير", "uk": "сiк", "tr": "meyve suyu" }
+      "translations": {
+        "es": "zumo",
+        "en": "juice",
+        "ar": "العصير",
+        "uk": "сiк",
+        "tr": "meyve suyu",
+        "bs": "sok"
+      }
     }
   ],
-
   "grammar": [
     {
       "title": {
@@ -115,7 +247,8 @@
         "en": "Accusative - the direct object",
         "ar": "حالة المفعول به",
         "uk": "Знахiдний вiдмiнок - прямий додаток",
-        "tr": "Ismin -i hali - dogrudan nesne"
+        "tr": "Ismin -i hali - dogrudan nesne",
+        "bs": "Akuzativ - direktni objekat"
       },
       "explanation": {
         "de": "Beim Akkusativ andert sich nur der maskuline Artikel: der wird den, ein wird einen, kein wird keinen. Das/die andern sich NICHT!",
@@ -123,15 +256,36 @@
         "en": "In accusative ONLY the masculine article changes: der -> den, ein -> einen, kein -> keinen. Das and die do NOT change!",
         "ar": "في حالة المفعول، فقط الأداة المذكرة تتغير: der -> den، ein -> einen، kein -> keinen.",
         "uk": "У знахiдному вiдмiнку змiнюється тiльки чоловiчий артикль: der -> den, ein -> einen.",
-        "tr": "Ismin -i halinde sadece eril artikel degisir: der -> den, ein -> einen."
+        "tr": "Ismin -i halinde sadece eril artikel degisir: der -> den, ein -> einen.",
+        "bs": "U akuzativu mijenja se SAMO muski clan: der -> den, ein -> einen. Das i die se NE mijenjaju!"
       },
       "table": {
-        "headers": ["Genus", "Nominativ", "Akkusativ"],
+        "headers": [
+          "Genus",
+          "Nominativ",
+          "Akkusativ"
+        ],
         "rows": [
-          ["maskulin", "der/ein/kein Salat", "den/einen/keinen Salat"],
-          ["neutral", "das/ein/kein Brot", "das/ein/kein Brot"],
-          ["feminin", "die/eine/keine Pizza", "die/eine/keine Pizza"],
-          ["Plural", "die/-/keine Tomaten", "die/-/keine Tomaten"]
+          [
+            "maskulin",
+            "der/ein/kein Salat",
+            "den/einen/keinen Salat"
+          ],
+          [
+            "neutral",
+            "das/ein/kein Brot",
+            "das/ein/kein Brot"
+          ],
+          [
+            "feminin",
+            "die/eine/keine Pizza",
+            "die/eine/keine Pizza"
+          ],
+          [
+            "Plural",
+            "die/-/keine Tomaten",
+            "die/-/keine Tomaten"
+          ]
         ]
       },
       "examples": [
@@ -148,7 +302,8 @@
         "en": "ja, nein, doch",
         "ar": "ja, nein, doch",
         "uk": "ja, nein, doch",
-        "tr": "ja, nein, doch"
+        "tr": "ja, nein, doch",
+        "bs": "ja, nein, doch"
       },
       "explanation": {
         "de": "ja = bestatigt eine positive Frage. nein = verneint. doch = bestatigt nach einer NEGATIVEN Frage. Bei negativer Frage immer doch verwenden!",
@@ -156,7 +311,8 @@
         "en": "ja = confirms a positive question. nein = negates. doch = confirms after a NEGATIVE question. After negative question always use doch!",
         "ar": "ja = نعم لسؤال إيجابي. nein = لا. doch = نعم بعد سؤال سلبي.",
         "uk": "ja = так на позитивне питання. nein = нi. doch = так на НЕГАТИВНЕ питання.",
-        "tr": "ja = olumlu soruya evet. nein = hayir. doch = OLUMSUZ soruya evet."
+        "tr": "ja = olumlu soruya evet. nein = hayir. doch = OLUMSUZ soruya evet.",
+        "bs": "ja = potvrda na pozitivno pitanje. nein = negacija. doch = potvrda na NEGATIVNO pitanje."
       },
       "examples": [
         "Hast du Hunger? - Ja, ich habe Hunger.",
@@ -172,7 +328,8 @@
         "en": "Verbs with vowel change",
         "ar": "الأفعال مع تغير الحرف",
         "uk": "Дiєслова з чергуванням голосних",
-        "tr": "Sesli degisimi olan fiiller"
+        "tr": "Sesli degisimi olan fiiller",
+        "bs": "Glagoli sa promjenom samoglasnika"
       },
       "explanation": {
         "de": "Einige wichtige Verben andern den Vokal in der du- und er/sie/es-Form: e -> i/ie, a -> a.",
@@ -180,58 +337,145 @@
         "en": "Some important verbs change vowel in du and er/sie/es forms: e -> i/ie, a -> a.",
         "ar": "بعض الأفعال تغير الحرف في صيغ du و er/sie/es.",
         "uk": "Деякi дiєслова змiнюють голосну у формах du i er/sie/es.",
-        "tr": "Bazi fiiller du ve er/sie/es formlarinda sesli degistirir."
+        "tr": "Bazi fiiller du ve er/sie/es formlarinda sesli degistirir.",
+        "bs": "Neki vazni glagoli mijenjaju samoglasnik u du i er/sie/es oblicima."
       },
       "table": {
-        "headers": ["Verb", "ich", "du", "er/sie"],
+        "headers": [
+          "Verb",
+          "ich",
+          "du",
+          "er/sie"
+        ],
         "rows": [
-          ["lesen (e->ie)", "lese", "liest", "liest"],
-          ["essen (e->i)", "esse", "isst", "isst"],
-          ["nehmen (e->i)", "nehme", "nimmst", "nimmt"],
-          ["fahren (a->a)", "fahre", "fahrst", "fahrt"],
-          ["schlafen (a->a)", "schlafe", "schlafst", "schlaft"]
+          [
+            "lesen (e->ie)",
+            "lese",
+            "liest",
+            "liest"
+          ],
+          [
+            "essen (e->i)",
+            "esse",
+            "isst",
+            "isst"
+          ],
+          [
+            "nehmen (e->i)",
+            "nehme",
+            "nimmst",
+            "nimmt"
+          ],
+          [
+            "fahren (a->a)",
+            "fahre",
+            "fahrst",
+            "fahrt"
+          ],
+          [
+            "schlafen (a->a)",
+            "schlafe",
+            "schlafst",
+            "schlaft"
+          ]
         ]
       }
     }
   ],
-
   "phrases": [
     {
       "de": "Wie ist das Wetter?",
-      "translations": { "es": "Como esta el tiempo?", "en": "How's the weather?", "ar": "كيف الطقس؟", "uk": "Яка погода?", "tr": "Hava nasil?" }
+      "translations": {
+        "es": "Como esta el tiempo?",
+        "en": "How's the weather?",
+        "ar": "كيف الطقس؟",
+        "uk": "Яка погода?",
+        "tr": "Hava nasil?",
+        "bs": "Kakvo je vrijeme?"
+      }
     },
     {
       "de": "Heute ist es schon und warm.",
-      "translations": { "es": "Hoy hace bueno y calido.", "en": "Today it's nice and warm.", "ar": "اليوم الجو جميل ودافئ.", "uk": "Сьогоднi гарно i тепло.", "tr": "Bugun hava guzel ve sicak." }
+      "translations": {
+        "es": "Hoy hace bueno y calido.",
+        "en": "Today it's nice and warm.",
+        "ar": "اليوم الجو جميل ودافئ.",
+        "uk": "Сьогоднi гарно i тепло.",
+        "tr": "Bugun hava guzel ve sicak.",
+        "bs": "Danas je lijepo i toplo."
+      }
     },
     {
       "de": "Was sind deine Hobbys?",
-      "translations": { "es": "Cuales son tus hobbies?", "en": "What are your hobbies?", "ar": "ما هواياتك؟", "uk": "Якi у тебе хобi?", "tr": "Hobilerin neler?" }
+      "translations": {
+        "es": "Cuales son tus hobbies?",
+        "en": "What are your hobbies?",
+        "ar": "ما هواياتك؟",
+        "uk": "Якi у тебе хобi?",
+        "tr": "Hobilerin neler?",
+        "bs": "Koji su tvoji hobiji?"
+      }
     },
     {
       "de": "Ich lese gern und mache Sport.",
-      "translations": { "es": "Me gusta leer y hacer deporte.", "en": "I like reading and doing sport.", "ar": "أحب القراءة والرياضة.", "uk": "Люблю читати i спорт.", "tr": "Okumayi ve sporu severim." }
+      "translations": {
+        "es": "Me gusta leer y hacer deporte.",
+        "en": "I like reading and doing sport.",
+        "ar": "أحب القراءة والرياضة.",
+        "uk": "Люблю читати i спорт.",
+        "tr": "Okumayi ve sporu severim.",
+        "bs": "Volim citati i baviti se sportom."
+      }
     },
     {
       "de": "Ich nehme einen Tee, bitte.",
-      "translations": { "es": "Tomo un te, por favor.", "en": "I'll have a tea, please.", "ar": "سآخذ شاي، من فضلك.", "uk": "Менi чай, будь ласка.", "tr": "Bir cay alirim, lutfen." }
+      "translations": {
+        "es": "Tomo un te, por favor.",
+        "en": "I'll have a tea, please.",
+        "ar": "سآخذ شاي، من فضلك.",
+        "uk": "Менi чай, будь ласка.",
+        "tr": "Bir cay alirim, lutfen.",
+        "bs": "Uzecu caj, molim."
+      }
     },
     {
       "de": "Hast du keinen Hunger? - Doch!",
-      "translations": { "es": "No tienes hambre? - Si que tengo!", "en": "Aren't you hungry? - Yes I am!", "ar": "ألست جائعا؟ - بل جائع!", "uk": "Ти не голодний? - Так, голодний!", "tr": "Aclikmis degil misin? - Evet aclikim!" }
+      "translations": {
+        "es": "No tienes hambre? - Si que tengo!",
+        "en": "Aren't you hungry? - Yes I am!",
+        "ar": "ألست جائعا؟ - بل جائع!",
+        "uk": "Ти не голодний? - Так, голодний!",
+        "tr": "Aclikmis degil misin? - Evet aclikim!",
+        "bs": "Nisi gladan? - Jesam!"
+      }
     }
   ],
-
   "exercises": [
     {
       "type": "link",
-      "title": { "de": "Akkusativ A1", "es": "Acusativo A1", "en": "Accusative A1", "ar": "حالة المفعول A1", "uk": "Знахiдний A1", "tr": "Ismin -i hali A1" },
+      "title": {
+        "de": "Akkusativ A1",
+        "es": "Acusativo A1",
+        "en": "Accusative A1",
+        "ar": "حالة المفعول A1",
+        "uk": "Знахiдний A1",
+        "tr": "Ismin -i hali A1",
+        "bs": "Akuzativ A1"
+      },
       "url": "https://wordwall.net/de/resource/3489734/akkusativ",
       "source": "wordwall.net"
     },
     {
       "type": "link",
-      "title": { "de": "Wetter A1", "es": "Tiempo (clima) A1", "en": "Weather A1", "ar": "الطقس A1", "uk": "Погода A1", "tr": "Hava A1" },
+      "title": {
+        "de": "Wetter A1",
+        "es": "Tiempo (clima) A1",
+        "en": "Weather A1",
+        "ar": "الطقس A1",
+        "uk": "Погода A1",
+        "tr": "Hava A1",
+        "bs": "Vrijeme A1"
+      },
       "url": "https://wordwall.net/de/resource/8316183/wetter",
       "source": "wordwall.net"
     }

@@ -1,0 +1,45 @@
+{
+  "hero": {
+    "title": "Uci njemacki sa svojim razredom",
+    "subtitle": "Vokabular, gramatika i vjezbe iz svakog casa, organizovani po lekcijama iz knjige. Vjezbaj kad god zelis, na jeziku koji preferiras."
+  },
+  "stats": {
+    "lektionen": "Lekcije",
+    "classes": "Casovi",
+    "languages": "Jezici",
+    "level": "Nivo"
+  },
+  "lessons": {
+    "title": "Lekcije",
+    "subtitle": "Odaberi jednu da pocnes",
+    "comingSoon": "Uskoro",
+    "available": "Dostupno",
+    "classesShort": "casovi"
+  },
+  "nav": {
+    "back": "Lekcije"
+  },
+  "tab": {
+    "vocabulary": "Vokabular",
+    "grammar": "Gramatika",
+    "phrases": "Korisne fraze",
+    "exercises": "Vjezbe",
+    "classes": "Casovi"
+  },
+  "lesson": {
+    "flashcards": "Kartice",
+    "noContent": "Jos nema sadrzaja u ovom dijelu"
+  },
+  "flash": {
+    "selectLessons": "Odaberi lekcije za vjezbu",
+    "all": "Sve",
+    "none": "Nijedna",
+    "start": "Pocni vjezbu",
+    "exit": "Izlaz",
+    "shuffle": "Promijesaj",
+    "tapToFlip": "Dodirni za prijevod"
+  },
+  "footer": {
+    "disclaimer": "Pomocni materijal za studente IK149. Schritte plus neu 1 © Hueber Verlag."
+  }
+}

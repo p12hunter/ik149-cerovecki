@@ -7,9 +7,9 @@
     "en": "Hello. My name is...",
     "ar": "مرحبا. اسمي...",
     "uk": "Доброго дня. Мене звати...",
-    "tr": "Merhaba. Benim adim..."
+    "tr": "Merhaba. Benim adim...",
+    "bs": "Dobar dan. Zovem se..."
   },
-
   "vocabulary": [
     {
       "de": "Vorname",
@@ -19,7 +19,8 @@
         "en": "first name",
         "ar": "الاسم الأول",
         "uk": "iм'я",
-        "tr": "ad"
+        "tr": "ad",
+        "bs": "ime"
       },
       "example": "Mein Vorname ist Lara."
     },
@@ -31,7 +32,8 @@
         "en": "surname",
         "ar": "اسم العائلة",
         "uk": "прiзвище",
-        "tr": "soyad"
+        "tr": "soyad",
+        "bs": "prezime"
       },
       "example": "Mein Nachname ist Nowak."
     },
@@ -43,7 +45,8 @@
         "en": "name",
         "ar": "الاسم",
         "uk": "iм'я",
-        "tr": "isim"
+        "tr": "isim",
+        "bs": "ime"
       },
       "example": "Was ist dein Name?"
     },
@@ -55,7 +58,8 @@
         "en": "origin",
         "ar": "الأصل",
         "uk": "походження",
-        "tr": "koken"
+        "tr": "koken",
+        "bs": "porijeklo"
       }
     },
     {
@@ -66,7 +70,8 @@
         "en": "home country",
         "ar": "الوطن",
         "uk": "рiдна країна",
-        "tr": "ana vatan"
+        "tr": "ana vatan",
+        "bs": "domovina"
       },
       "example": "Kroatien ist mein Heimatland."
     },
@@ -78,7 +83,8 @@
         "en": "language",
         "ar": "اللغة",
         "uk": "мова",
-        "tr": "dil"
+        "tr": "dil",
+        "bs": "jezik"
       },
       "example": "Deutsch ist eine Sprache."
     },
@@ -90,7 +96,8 @@
         "en": "mother tongue",
         "ar": "اللغة الأم",
         "uk": "рiдна мова",
-        "tr": "ana dil"
+        "tr": "ana dil",
+        "bs": "maternji jezik"
       },
       "example": "Meine Muttersprache ist Spanisch."
     },
@@ -102,7 +109,8 @@
         "en": "profession",
         "ar": "المهنة",
         "uk": "професiя",
-        "tr": "meslek"
+        "tr": "meslek",
+        "bs": "zanimanje"
       },
       "example": "Was bist du von Beruf?"
     },
@@ -114,7 +122,8 @@
         "en": "teacher (female)",
         "ar": "معلمة",
         "uk": "вчителька",
-        "tr": "ogretmen (kadin)"
+        "tr": "ogretmen (kadin)",
+        "bs": "uciteljica"
       },
       "example": "Sie ist Deutschlehrerin."
     },
@@ -126,7 +135,8 @@
         "en": "programmer",
         "ar": "مبرمج",
         "uk": "програмiст",
-        "tr": "programci"
+        "tr": "programci",
+        "bs": "programer"
       }
     },
     {
@@ -136,7 +146,8 @@
         "en": "married",
         "ar": "متزوج",
         "uk": "одружений / замiжня",
-        "tr": "evli"
+        "tr": "evli",
+        "bs": "ozenjen / udata"
       },
       "example": "Ich bin verheiratet."
     },
@@ -147,7 +158,8 @@
         "en": "single",
         "ar": "أعزب",
         "uk": "неодружений",
-        "tr": "bekar"
+        "tr": "bekar",
+        "bs": "samac"
       },
       "example": "Nein, ich bin ledig."
     },
@@ -158,7 +170,8 @@
         "en": "a little",
         "ar": "قليلا",
         "uk": "трохи",
-        "tr": "biraz"
+        "tr": "biraz",
+        "bs": "malo"
       },
       "example": "Ich spreche ein bisschen Deutsch."
     },
@@ -170,7 +183,8 @@
         "en": "pronoun",
         "ar": "الضمير",
         "uk": "займенник",
-        "tr": "zamir"
+        "tr": "zamir",
+        "bs": "zamjenica"
       }
     },
     {
@@ -181,7 +195,8 @@
         "en": "noun",
         "ar": "الاسم",
         "uk": "iменник",
-        "tr": "isim"
+        "tr": "isim",
+        "bs": "imenica"
       },
       "example": "Jedes Nomen hat einen Artikel."
     },
@@ -193,7 +208,8 @@
         "en": "article (grammatical)",
         "ar": "أداة التعريف",
         "uk": "артикль",
-        "tr": "tanimlik"
+        "tr": "tanimlik",
+        "bs": "clan (gramaticki)"
       },
       "example": "der, die, das sind Artikel."
     },
@@ -205,7 +221,8 @@
         "en": "verb",
         "ar": "الفعل",
         "uk": "дiєслово",
-        "tr": "fiil"
+        "tr": "fiil",
+        "bs": "glagol"
       },
       "example": "Verb steht auf Position 2."
     },
@@ -217,7 +234,8 @@
         "en": "number",
         "ar": "العدد",
         "uk": "число",
-        "tr": "sayi"
+        "tr": "sayi",
+        "bs": "broj"
       }
     },
     {
@@ -228,11 +246,11 @@
         "en": "adjective",
         "ar": "الصفة",
         "uk": "прикметник",
-        "tr": "sifat"
+        "tr": "sifat",
+        "bs": "pridjev"
       }
     }
   ],
-
   "grammar": [
     {
       "title": {
@@ -241,7 +259,8 @@
         "en": "Personal pronouns",
         "ar": "الضمائر الشخصية",
         "uk": "Особовi займенники",
-        "tr": "Sahis zamirleri"
+        "tr": "Sahis zamirleri",
+        "bs": "Licne zamjenice"
       },
       "explanation": {
         "de": "Die Personalpronomen im Singular sind: ich, du, er/sie/es. Im Plural: wir, ihr, sie. Sie (mit grossem S) ist die formelle Anrede.",
@@ -249,17 +268,39 @@
         "en": "Singular personal pronouns: ich (I), du (you informal), er/sie/es (he/she/it). Plural: wir (we), ihr (you all), sie (they). Sie (capital S) is the formal address.",
         "ar": "ضمائر المفرد: ich (أنا)، du (أنت)، er/sie/es (هو/هي/هو محايد). الجمع: wir (نحن)، ihr (أنتم)، sie (هم). Sie بحرف كبير صيغة احترام.",
         "uk": "Займенники однини: ich (я), du (ти), er/sie/es (вiн/вона/воно). Множина: wir (ми), ihr (ви), sie (вони). Sie з великої - ввiчлива форма.",
-        "tr": "Tekil sahis zamirleri: ich (ben), du (sen), er/sie/es (o erkek/kadin/notr). Cogul: wir (biz), ihr (siz), sie (onlar). Sie (buyuk S) resmi hitap."
+        "tr": "Tekil sahis zamirleri: ich (ben), du (sen), er/sie/es (o erkek/kadin/notr). Cogul: wir (biz), ihr (siz), sie (onlar). Sie (buyuk S) resmi hitap.",
+        "bs": "Licne zamjenice u jednini su: ich (ja), du (ti), er/sie/es (on/ona/ono). U mnozini: wir (mi), ihr (vi), sie (oni). Sie sa velikim S je formalno obracanje."
       },
       "table": {
-        "headers": ["Pronomen", "Person"],
+        "headers": [
+          "Pronomen",
+          "Person"
+        ],
         "rows": [
-          ["ich", "1. Person Singular"],
-          ["du", "2. Person Singular (informal)"],
-          ["er / sie / es", "3. Person Singular"],
-          ["wir", "1. Person Plural"],
-          ["ihr", "2. Person Plural (informal)"],
-          ["sie / Sie", "3. Person Plural / formal"]
+          [
+            "ich",
+            "1. Person Singular"
+          ],
+          [
+            "du",
+            "2. Person Singular (informal)"
+          ],
+          [
+            "er / sie / es",
+            "3. Person Singular"
+          ],
+          [
+            "wir",
+            "1. Person Plural"
+          ],
+          [
+            "ihr",
+            "2. Person Plural (informal)"
+          ],
+          [
+            "sie / Sie",
+            "3. Person Plural / formal"
+          ]
         ]
       }
     },
@@ -270,7 +311,8 @@
         "en": "Verb conjugation - regular verbs",
         "ar": "تصريف الأفعال - الأفعال المنتظمة",
         "uk": "Дiєвiдмiна - правильнi дiєслова",
-        "tr": "Fiil cekimi - duzenli fiiller"
+        "tr": "Fiil cekimi - duzenli fiiller",
+        "bs": "Konjugacija glagola - pravilni glagoli"
       },
       "explanation": {
         "de": "Der Infinitiv endet immer auf -en (kommen, lernen, horen). Zum Konjugieren entfernt man -en und fugt die passende Endung hinzu.",
@@ -278,17 +320,53 @@
         "en": "The infinitive always ends in -en (kommen, lernen, horen). To conjugate, remove -en and add the matching ending.",
         "ar": "المصدر ينتهي دائما بـ -en. للتصريف، نحذف -en ونضيف النهاية المناسبة.",
         "uk": "Iнфiнiтив завжди закiнчується на -en. Для дiєвiдмiнювання прибираємо -en i додаємо вiдповiдне закiнчення.",
-        "tr": "Mastar her zaman -en ile biter. Cekmek icin -en'i cikarip uygun eki ekleriz."
+        "tr": "Mastar her zaman -en ile biter. Cekmek icin -en'i cikarip uygun eki ekleriz.",
+        "bs": "Infinitiv se uvijek zavrsava na -en. Za konjugaciju maknemo -en i dodamo nastavak."
       },
       "table": {
-        "headers": ["Pronomen", "lernen", "kommen", "horen"],
+        "headers": [
+          "Pronomen",
+          "lernen",
+          "kommen",
+          "horen"
+        ],
         "rows": [
-          ["ich (-e)", "lerne", "komme", "hore"],
-          ["du (-st)", "lernst", "kommst", "horst"],
-          ["er/sie/es (-t)", "lernt", "kommt", "hort"],
-          ["wir (-en)", "lernen", "kommen", "horen"],
-          ["ihr (-t)", "lernt", "kommt", "hort"],
-          ["sie/Sie (-en)", "lernen", "kommen", "horen"]
+          [
+            "ich (-e)",
+            "lerne",
+            "komme",
+            "hore"
+          ],
+          [
+            "du (-st)",
+            "lernst",
+            "kommst",
+            "horst"
+          ],
+          [
+            "er/sie/es (-t)",
+            "lernt",
+            "kommt",
+            "hort"
+          ],
+          [
+            "wir (-en)",
+            "lernen",
+            "kommen",
+            "horen"
+          ],
+          [
+            "ihr (-t)",
+            "lernt",
+            "kommt",
+            "hort"
+          ],
+          [
+            "sie/Sie (-en)",
+            "lernen",
+            "kommen",
+            "horen"
+          ]
         ]
       },
       "examples": [
@@ -304,7 +382,8 @@
         "en": "Verb sein (to be) - irregular",
         "ar": "الفعل sein (يكون) - شاذ",
         "uk": "Дiєслово sein (бути) - неправильне",
-        "tr": "sein fiili (olmak) - duzensiz"
+        "tr": "sein fiili (olmak) - duzensiz",
+        "bs": "Glagol sein (biti) - nepravilan"
       },
       "explanation": {
         "de": "Das Verb sein ist unregelmassig. Es ist sehr wichtig - bitte auswendig lernen!",
@@ -312,17 +391,39 @@
         "en": "The verb sein is irregular. Very important - memorise it!",
         "ar": "الفعل sein شاذ. مهم جدا - يجب حفظه!",
         "uk": "Дiєслово sein - неправильне. Дуже важливе - вивчити напам'ять!",
-        "tr": "sein fiili duzensizdir. Cok onemli - ezberle!"
+        "tr": "sein fiili duzensizdir. Cok onemli - ezberle!",
+        "bs": "Glagol sein je nepravilan. Veoma vazno - nauci napamet!"
       },
       "table": {
-        "headers": ["Pronomen", "sein"],
+        "headers": [
+          "Pronomen",
+          "sein"
+        ],
         "rows": [
-          ["ich", "bin"],
-          ["du", "bist"],
-          ["er/sie/es", "ist"],
-          ["wir", "sind"],
-          ["ihr", "seid"],
-          ["sie/Sie", "sind"]
+          [
+            "ich",
+            "bin"
+          ],
+          [
+            "du",
+            "bist"
+          ],
+          [
+            "er/sie/es",
+            "ist"
+          ],
+          [
+            "wir",
+            "sind"
+          ],
+          [
+            "ihr",
+            "seid"
+          ],
+          [
+            "sie/Sie",
+            "sind"
+          ]
         ]
       },
       "examples": [
@@ -338,7 +439,8 @@
         "en": "Sentence structure - verb in position 2",
         "ar": "بنية الجملة - الفعل في الموضع الثاني",
         "uk": "Структура речення - дiєслово на 2 мiсцi",
-        "tr": "Cumle yapisi - fiil 2. konumda"
+        "tr": "Cumle yapisi - fiil 2. konumda",
+        "bs": "Struktura recenice - glagol na 2. mjestu"
       },
       "explanation": {
         "de": "In Aussagesatzen steht das konjugierte Verb immer auf Position 2. Vor dem Verb kann das Subjekt oder ein anderes Element stehen.",
@@ -346,7 +448,8 @@
         "en": "In statements, the conjugated verb always goes in position 2. Before the verb you can place the subject or another element.",
         "ar": "في الجمل الخبرية، الفعل المصرف دائما في الموضع الثاني. قبل الفعل يمكن وضع الفاعل أو عنصر آخر.",
         "uk": "У розповiдних реченнях вiдмiнюване дiєслово завжди на 2 мiсцi. Перед ним - пiдмет або iнший елемент.",
-        "tr": "Bildirim cumlelerinde cekimli fiil her zaman 2. konumdadir. Fiilden once ozne veya baska bir oge gelebilir."
+        "tr": "Bildirim cumlelerinde cekimli fiil her zaman 2. konumdadir. Fiilden once ozne veya baska bir oge gelebilir.",
+        "bs": "U izjavnoj recenici konjugirani glagol je uvijek na 2. mjestu."
       },
       "examples": [
         "Ich (1) bin (2) 27 Jahre alt.",
@@ -361,7 +464,8 @@
         "en": "Preposition aus + country",
         "ar": "حرف الجر aus + البلد",
         "uk": "Прийменник aus + країна",
-        "tr": "Edat aus + ulke"
+        "tr": "Edat aus + ulke",
+        "bs": "Prijedlog aus + drzava"
       },
       "explanation": {
         "de": "Mit aus sagen wir, woher wir kommen. Die meisten Lander haben keinen Artikel: aus Deutschland, aus Spanien. Aber: aus der Turkei, aus den USA.",
@@ -369,7 +473,8 @@
         "en": "With aus we say where we come from. Most countries take no article: aus Deutschland, aus Spanien. But: aus der Turkei, aus den USA.",
         "ar": "مع aus نقول من أين نأتي. معظم البلدان بدون أداة تعريف: aus Deutschland. لكن: aus der Turkei، aus den USA.",
         "uk": "З aus говоримо звiдки ми. Бiльшiсть країн без артикля: aus Deutschland. Але: aus der Turkei, aus den USA.",
-        "tr": "aus ile nereden geldigimizi soyleriz. Cogu ulke artikelsiz: aus Deutschland. Ama: aus der Turkei, aus den USA."
+        "tr": "aus ile nereden geldigimizi soyleriz. Cogu ulke artikelsiz: aus Deutschland. Ama: aus der Turkei, aus den USA.",
+        "bs": "Sa aus kazemo odakle dolazimo. Vecina drzava bez clana, ali aus der Turkei, aus den USA."
       },
       "examples": [
         "Ich komme aus Spanien.",
@@ -378,7 +483,6 @@
       ]
     }
   ],
-
   "phrases": [
     {
       "de": "Wie heisst du?",
@@ -387,7 +491,8 @@
         "en": "What's your name?",
         "ar": "ما اسمك؟",
         "uk": "Як тебе звати?",
-        "tr": "Adin ne?"
+        "tr": "Adin ne?",
+        "bs": "Kako se zoves?"
       }
     },
     {
@@ -397,7 +502,8 @@
         "en": "My name is Lara Nowak.",
         "ar": "اسمي لارا نواك.",
         "uk": "Мене звати Лара Новак.",
-        "tr": "Adim Lara Nowak."
+        "tr": "Adim Lara Nowak.",
+        "bs": "Zovem se Lara Nowak."
       }
     },
     {
@@ -407,7 +513,8 @@
         "en": "What is your name?",
         "ar": "ما هو اسمك؟",
         "uk": "Як твоє iм'я?",
-        "tr": "Ismin nedir?"
+        "tr": "Ismin nedir?",
+        "bs": "Kako se zoves?"
       }
     },
     {
@@ -417,7 +524,8 @@
         "en": "How old are you?",
         "ar": "كم عمرك؟",
         "uk": "Скiльки тобi рокiв?",
-        "tr": "Kac yasindasin?"
+        "tr": "Kac yasindasin?",
+        "bs": "Koliko godina imas?"
       }
     },
     {
@@ -427,7 +535,8 @@
         "en": "I am 27 years old.",
         "ar": "عمري 27 سنة.",
         "uk": "Менi 27 рокiв.",
-        "tr": "27 yasindayim."
+        "tr": "27 yasindayim.",
+        "bs": "Imam 27 godina."
       }
     },
     {
@@ -437,7 +546,8 @@
         "en": "Where are you from?",
         "ar": "من أين أنت؟",
         "uk": "Звiдки ти?",
-        "tr": "Nerelisin?"
+        "tr": "Nerelisin?",
+        "bs": "Odakle si?"
       }
     },
     {
@@ -447,7 +557,8 @@
         "en": "I'm from Spain.",
         "ar": "أنا من إسبانيا.",
         "uk": "Я з Iспанiї.",
-        "tr": "Ispanya'danim."
+        "tr": "Ispanya'danim.",
+        "bs": "Ja sam iz Spanije."
       }
     },
     {
@@ -457,7 +568,8 @@
         "en": "Where do you live?",
         "ar": "أين تسكن؟",
         "uk": "Де ти живеш?",
-        "tr": "Nerede yasiyorsun?"
+        "tr": "Nerede yasiyorsun?",
+        "bs": "Gdje stanujes?"
       }
     },
     {
@@ -467,7 +579,8 @@
         "en": "I live in Wuppertal.",
         "ar": "أسكن في فوبرتال.",
         "uk": "Я живу у Вуппертальi.",
-        "tr": "Wuppertal'de yasiyorum."
+        "tr": "Wuppertal'de yasiyorum.",
+        "bs": "Stanujem u Wuppertalu."
       }
     },
     {
@@ -477,7 +590,8 @@
         "en": "Are you married?",
         "ar": "هل أنت متزوج؟",
         "uk": "Ти одружений?",
-        "tr": "Evli misin?"
+        "tr": "Evli misin?",
+        "bs": "Jesi li ozenjen / udata?"
       }
     },
     {
@@ -487,7 +601,8 @@
         "en": "Yes, I am married.",
         "ar": "نعم، أنا متزوج.",
         "uk": "Так, я одружений.",
-        "tr": "Evet, evliyim."
+        "tr": "Evet, evliyim.",
+        "bs": "Da, ozenjen sam / udata sam."
       }
     },
     {
@@ -497,7 +612,8 @@
         "en": "No, I am single.",
         "ar": "لا، أنا أعزب.",
         "uk": "Нi, я неодружений.",
-        "tr": "Hayir, bekarim."
+        "tr": "Hayir, bekarim.",
+        "bs": "Ne, samac sam."
       }
     },
     {
@@ -507,7 +623,8 @@
         "en": "Which languages do you speak?",
         "ar": "ما اللغات التي تتحدثها؟",
         "uk": "Якими мовами ти говориш?",
-        "tr": "Hangi dilleri konusursun?"
+        "tr": "Hangi dilleri konusursun?",
+        "bs": "Koje jezike govoris?"
       }
     },
     {
@@ -517,7 +634,8 @@
         "en": "I speak Spanish and a little German.",
         "ar": "أتحدث الإسبانية وقليلا من الألمانية.",
         "uk": "Я говорю iспанською i трохи нiмецькою.",
-        "tr": "Ispanyolca ve biraz Almanca konusuyorum."
+        "tr": "Ispanyolca ve biraz Almanca konusuyorum.",
+        "bs": "Govorim spanski i malo njemacki."
       }
     },
     {
@@ -527,7 +645,8 @@
         "en": "What do you do for a living?",
         "ar": "ما مهنتك؟",
         "uk": "Ким ти працюєш?",
-        "tr": "Meslegin nedir?"
+        "tr": "Meslegin nedir?",
+        "bs": "Sta si po zanimanju?"
       }
     },
     {
@@ -537,7 +656,8 @@
         "en": "I work as a programmer.",
         "ar": "أعمل كمبرمج.",
         "uk": "Я працюю програмiстом.",
-        "tr": "Programci olarak calisiyorum."
+        "tr": "Programci olarak calisiyorum.",
+        "bs": "Radim kao programer."
       },
       "note": {
         "de": "als + Beruf | bei + Firma",
@@ -545,11 +665,11 @@
         "en": "als + profession | bei + company",
         "ar": "als + المهنة | bei + الشركة",
         "uk": "als + професiя | bei + компанiя",
-        "tr": "als + meslek | bei + sirket"
+        "tr": "als + meslek | bei + sirket",
+        "bs": "als + Beruf | bei + Firma"
       }
     }
   ],
-
   "exercises": [
     {
       "type": "link",
@@ -559,7 +679,8 @@
         "en": "W-Questions exercise 1",
         "ar": "تمرين أسئلة W",
         "uk": "Вправа W-питання 1",
-        "tr": "W sorulari alistirmasi 1"
+        "tr": "W sorulari alistirmasi 1",
+        "bs": "Vjezba W-pitanja 1"
       },
       "url": "https://wordwall.net/de/resource/12773774/w-fragen",
       "source": "wordwall.net"
@@ -572,7 +693,8 @@
         "en": "A1 W-Questions",
         "ar": "A1 أسئلة W",
         "uk": "A1 W-питання",
-        "tr": "A1 W sorulari"
+        "tr": "A1 W sorulari",
+        "bs": "A1 W-pitanja"
       },
       "url": "https://wordwall.net/de/resource/79723981/a1-w-fragen",
       "source": "wordwall.net"
@@ -585,13 +707,13 @@
         "en": "A1 verb conjugation",
         "ar": "تصريف الأفعال A1",
         "uk": "Дiєвiдмiна A1",
-        "tr": "A1 fiil cekimi"
+        "tr": "A1 fiil cekimi",
+        "bs": "Konjugacija glagola A1"
       },
       "url": "https://mein-deutschbuch.de/grammatikuebungen-konjugation.html",
       "source": "mein-deutschbuch.de"
     }
   ],
-
   "classes": [
     {
       "tag": 1,
@@ -602,12 +724,37 @@
         "en": "First class: introduction of the teacher and course rules. First sentences: what's your name, how old are you, where are you from, where do you live, marital status, languages, profession.",
         "ar": "الحصة الأولى: تقديم المعلمة وقواعد الدورة. الجمل الأولى: ما اسمك، كم عمرك، من أين أنت، أين تسكن، الحالة الاجتماعية، اللغات، المهنة.",
         "uk": "Перше заняття: знайомство з викладачем i правилами курсу. Першi фрази: як тебе звати, скiльки рокiв, звiдки ти, де живеш, сiмейний стан, мови, професiя.",
-        "tr": "Ilk ders: ogretmenin ve kurs kurallarinin tanitimi. Ilk cumleler: adin ne, kac yasindasin, nerelisin, nerede yasiyorsun, medeni durum, diller, meslek."
+        "tr": "Ilk ders: ogretmenin ve kurs kurallarinin tanitimi. Ilk cumleler: adin ne, kac yasindasin, nerelisin, nerede yasiyorsun, medeni durum, diller, meslek.",
+        "bs": "Prvi cas: predstavljanje uciteljice i pravila kursa. Prve recenice: kako se zoves, koliko godina imas, odakle si, gdje zivis, bracno stanje, jezici, zanimanje."
       },
       "topics": [
-        { "de": "Sich vorstellen", "es": "Presentarse", "en": "Introducing oneself", "ar": "التعريف بالنفس", "uk": "Знайомство", "tr": "Kendini tanitma" },
-        { "de": "Personalpronomen ich/du", "es": "Pronombres ich/du", "en": "Pronouns ich/du", "ar": "الضمائر ich/du", "uk": "Займенники ich/du", "tr": "ich/du zamirleri" },
-        { "de": "Verb sein - bin/bist/ist", "es": "Verbo sein - bin/bist/ist", "en": "Verb sein - bin/bist/ist", "ar": "الفعل sein - bin/bist/ist", "uk": "Дiєслово sein - bin/bist/ist", "tr": "sein fiili - bin/bist/ist" }
+        {
+          "de": "Sich vorstellen",
+          "es": "Presentarse",
+          "en": "Introducing oneself",
+          "ar": "التعريف بالنفس",
+          "uk": "Знайомство",
+          "tr": "Kendini tanitma",
+          "bs": "Predstavljanje"
+        },
+        {
+          "de": "Personalpronomen ich/du",
+          "es": "Pronombres ich/du",
+          "en": "Pronouns ich/du",
+          "ar": "الضمائر ich/du",
+          "uk": "Займенники ich/du",
+          "tr": "ich/du zamirleri",
+          "bs": "Zamjenice ich/du"
+        },
+        {
+          "de": "Verb sein - bin/bist/ist",
+          "es": "Verbo sein - bin/bist/ist",
+          "en": "Verb sein - bin/bist/ist",
+          "ar": "الفعل sein - bin/bist/ist",
+          "uk": "Дiєслово sein - bin/bist/ist",
+          "tr": "sein fiili - bin/bist/ist",
+          "bs": "Glagol sein - bin/bist/ist"
+        }
       ]
     }
   ]
